@@ -160,6 +160,7 @@ LANGUAGES = {
     'en': {'flag': 'us', 'name': 'English'},
     'it': {'flag': 'it', 'name': 'Italian'},
     'fr': {'flag': 'fr', 'name': 'French'},
+    'fi': {'flag': 'fi', 'name': 'Finnish'},
     'zh': {'flag': 'cn', 'name': 'Chinese'},
     'ja': {'flag': 'jp', 'name': 'Japanese'},
     'de': {'flag': 'de', 'name': 'German'},

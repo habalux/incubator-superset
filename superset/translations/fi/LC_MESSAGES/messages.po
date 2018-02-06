@@ -1,0 +1,4063 @@
+# Finnish translations for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-11-01 01:31+0000\n"
+"PO-Revision-Date: 2018-02-05 20:14+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fi\n"
+"Language-Team: fi <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:570
+#: superset/db_engine_specs.py:216 superset/db_engine_specs.py:247
+#: superset/db_engine_specs.py:291 superset/db_engine_specs.py:339
+#: superset/db_engine_specs.py:395 superset/db_engine_specs.py:893
+#: superset/db_engine_specs.py:929 superset/db_engine_specs.py:961
+#: superset/db_engine_specs.py:1007 superset/db_engine_specs.py:1044
+#: superset/db_engine_specs.py:1069
+msgid "Time Column"
+msgstr "Aikasarake"
+
+#: superset/db_engine_specs.py:217 superset/db_engine_specs.py:248
+#: superset/db_engine_specs.py:340 superset/db_engine_specs.py:396
+#: superset/db_engine_specs.py:894 superset/db_engine_specs.py:962
+#: superset/db_engine_specs.py:1045
+msgid "second"
+msgstr "sekunti"
+
+#: superset/db_engine_specs.py:218 superset/db_engine_specs.py:251
+#: superset/db_engine_specs.py:343 superset/db_engine_specs.py:398
+#: superset/db_engine_specs.py:896 superset/db_engine_specs.py:930
+#: superset/db_engine_specs.py:964 superset/db_engine_specs.py:1008
+#: superset/db_engine_specs.py:1046 superset/db_engine_specs.py:1070
+msgid "minute"
+msgstr "minuutti"
+
+#: superset/db_engine_specs.py:219 superset/db_engine_specs.py:255
+#: superset/db_engine_specs.py:345 superset/db_engine_specs.py:400
+#: superset/db_engine_specs.py:902 superset/db_engine_specs.py:932
+#: superset/db_engine_specs.py:966 superset/db_engine_specs.py:1014
+#: superset/db_engine_specs.py:1047 superset/db_engine_specs.py:1071
+msgid "hour"
+msgstr "tunti"
+
+#: superset/db_engine_specs.py:220 superset/db_engine_specs.py:260
+#: superset/db_engine_specs.py:292 superset/db_engine_specs.py:347
+#: superset/db_engine_specs.py:402 superset/db_engine_specs.py:904
+#: superset/db_engine_specs.py:934 superset/db_engine_specs.py:968
+#: superset/db_engine_specs.py:1016 superset/db_engine_specs.py:1048
+#: superset/db_engine_specs.py:1072
+msgid "day"
+msgstr "päivä"
+
+#: superset/db_engine_specs.py:221 superset/db_engine_specs.py:266
+#: superset/db_engine_specs.py:293 superset/db_engine_specs.py:348
+#: superset/db_engine_specs.py:404 superset/db_engine_specs.py:906
+#: superset/db_engine_specs.py:936 superset/db_engine_specs.py:970
+#: superset/db_engine_specs.py:1049 superset/db_engine_specs.py:1073
+msgid "week"
+msgstr "viikko"
+
+#: superset/db_engine_specs.py:222 superset/db_engine_specs.py:268
+#: superset/db_engine_specs.py:295 superset/db_engine_specs.py:350
+#: superset/db_engine_specs.py:406 superset/db_engine_specs.py:908
+#: superset/db_engine_specs.py:938 superset/db_engine_specs.py:972
+#: superset/db_engine_specs.py:1018 superset/db_engine_specs.py:1050
+#: superset/db_engine_specs.py:1074
+msgid "month"
+msgstr "kuukausi"
+
+#: superset/db_engine_specs.py:223 superset/db_engine_specs.py:270
+#: superset/db_engine_specs.py:352 superset/db_engine_specs.py:408
+#: superset/db_engine_specs.py:910 superset/db_engine_specs.py:940
+#: superset/db_engine_specs.py:974 superset/db_engine_specs.py:1020
+#: superset/db_engine_specs.py:1051 superset/db_engine_specs.py:1075
+msgid "quarter"
+msgstr "neljännes"
+
+#: superset/db_engine_specs.py:224 superset/db_engine_specs.py:274
+#: superset/db_engine_specs.py:354 superset/db_engine_specs.py:912
+#: superset/db_engine_specs.py:942 superset/db_engine_specs.py:1022
+#: superset/db_engine_specs.py:1052 superset/db_engine_specs.py:1076
+msgid "year"
+msgstr "vuosi"
+
+#: superset/db_engine_specs.py:356
+msgid "week_start_monday"
+msgstr ""
+
+#: superset/db_engine_specs.py:410 superset/db_engine_specs.py:976
+msgid "week_ending_saturday"
+msgstr ""
+
+#: superset/db_engine_specs.py:413 superset/db_engine_specs.py:979
+msgid "week_start_sunday"
+msgstr ""
+
+#: superset/db_engine_specs.py:898 superset/db_engine_specs.py:1010
+msgid "5 minute"
+msgstr "5 minuuttia"
+
+#: superset/db_engine_specs.py:900
+msgid "half hour"
+msgstr "puoli tuntia"
+
+#: superset/db_engine_specs.py:1012
+msgid "10 minute"
+msgstr "10 minuuttia"
+
+#: superset/utils.py:499
+#, python-format
+msgid "[Superset] Access to the datasource %(name)s was granted"
+msgstr "[Superset] Käyttöoikeus datalähteeseen %(name)s on myönnetty"
+
+#: superset/viz.py:52
+msgid "Viz is missing a datasource"
+msgstr "Viz:illä ei ole datalähdettä"
+
+#: superset/viz.py:172
+msgid "From date cannot be larger than to date"
+msgstr "Alkupäivä täytyy olla ennen loppupäivää"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:335
+#: superset/viz.py:350
+msgid "Table View"
+msgstr "Taulukkonäkymä"
+
+#: superset/viz.py:362
+msgid "Pick a granularity in the Time section or uncheck 'Include Time'"
+msgstr "Valitse rakeisuus Aika-osiosta tai poista valinta 'Sisällytä aika'"
+
+#: superset/viz.py:372
+msgid "Choose either fields to [Group By] and [Metrics] or [Columns], not both"
+msgstr ""
+
+#: superset/viz.py:441
+msgid "Time Table View"
+msgstr "Aikataulunäkymä"
+
+#: superset/viz.py:450 superset/viz.py:1218
+msgid "Pick at least one metric"
+msgstr "Valitse vähintään yksi metriikka"
+
+#: superset/viz.py:453
+msgid "When using 'Group By' you are limited to use a single metric"
+msgstr "Kun käytössä on 'Group By', voit valita vain yhden metriikan"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:413
+#: superset/viz.py:483
+msgid "Pivot Table"
+msgstr "Pivot-Taulu"
+
+#: superset/viz.py:497
+msgid "Please choose at least one \"Group by\" field "
+msgstr "Valitse vähintään yksi 'Group By' -kenttä"
+
+#: superset/viz.py:499
+msgid "Please choose at least one metric"
+msgstr "Valitse vähintään yksi metriikka"
+
+#: superset/viz.py:503
+msgid "'Group By' and 'Columns' can't overlap"
+msgstr "'Group By' ja 'Columns' eivät voi olla päällekkäisiä"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:400
+#: superset/viz.py:536
+msgid "Markup"
+msgstr "Merkintä"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:438
+#: superset/viz.py:555
+msgid "Separator"
+msgstr "Erotin"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:460
+#: superset/viz.py:567
+msgid "Word Cloud"
+msgstr "Sanapilvi"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:481
+#: superset/viz.py:590
+msgid "Treemap"
+msgstr "Puukartta"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:508
+#: superset/viz.py:616
+msgid "Calendar Heatmap"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:529
+#: superset/viz.py:674
+msgid "Box Plot"
+msgstr "Laatikkokaavio"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:550
+#: superset/viz.py:763
+msgid "Bubble Chart"
+msgstr "Kuplakaavio"
+
+#: superset/viz.py:787
+msgid "Pick a metric for x, y and size"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:601
+#: superset/viz.py:813
+msgid "Bullet Chart"
+msgstr ""
+
+#: superset/viz.py:839
+msgid "Pick a metric to display"
+msgstr "Valitse näytettävä metriikka"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:624
+#: superset/viz.py:862
+msgid "Big Number with Trendline"
+msgstr "Iso Numero kuvaajalla"
+
+#: superset/viz.py:870 superset/viz.py:899
+msgid "Pick a metric!"
+msgstr "Valitse metriikka!"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:649
+#: superset/viz.py:891
+msgid "Big Number"
+msgstr "Iso Numero"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:158
+#: superset/viz.py:918
+msgid "Time Series - Line Chart"
+msgstr "Aikajana - Viivakaavio"
+
+#: superset/viz.py:966 superset/viz.py:1119
+msgid "Pick a time granularity for your time series"
+msgstr "Valitse rakeisuus aikasarjalle"
+
+#: superset/viz.py:1062
+msgid "Time Series - Dual Axis Line Chart"
+msgstr "Aikajana - Kaksoisakselinen viivakaavio"
+
+#: superset/viz.py:1072
+msgid "Pick a metric for left axis!"
+msgstr "Valitse metriikka vasemmalle akselille!"
+
+#: superset/viz.py:1074
+msgid "Pick a metric for right axis!"
+msgstr "Valitse metriikka oikealle akselille!"
+
+#: superset/viz.py:1076
+msgid "Please choose different metrics on left and right axis"
+msgstr "Ole hyvä ja valitse eri metriikat vasemman ja oikean puolen akseleille"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:239
+#: superset/viz.py:1137
+msgid "Time Series - Bar Chart"
+msgstr "Aikajana - Palkkikaavio"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:275
+#: superset/viz.py:1145
+msgid "Time Series - Percent Change"
+msgstr "Aikajana - Muutosprosentti"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:298
+#: superset/viz.py:1153
+msgid "Time Series - Stacked"
+msgstr "Aikajana - Pinottu"
+
+#: superset/viz.py:1162
+msgid "Distribution - NVD3 - Pie Chart"
+msgstr "Jakauma - NVD3 - Piirakkakaavio"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:674
+#: superset/viz.py:1180
+msgid "Histogram"
+msgstr "Histogrammi"
+
+#: superset/viz.py:1190
+msgid "Must have one numeric column specified"
+msgstr "Vähintään yksi numeerinen sarake vaaditaan"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:96
+#: superset/viz.py:1205
+msgid "Distribution - Bar Chart"
+msgstr "Jakauma - Palkkikaavio"
+
+#: superset/viz.py:1216
+msgid "Can't have overlap between Series and Breakdowns"
+msgstr ""
+
+#: superset/viz.py:1220
+msgid "Pick at least one field for [Series]"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:706
+#: superset/viz.py:1273
+msgid "Sunburst"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:743
+#: superset/viz.py:1306
+msgid "Sankey"
+msgstr ""
+
+#: superset/viz.py:1313
+msgid "Pick exactly 2 columns as [Source / Target]"
+msgstr "Valitse täsmälleen kaksi saraketta [Lähde / Kohde]"
+
+#: superset/viz.py:1344
+msgid ""
+"There's a loop in your Sankey, please provide a tree. Here's a faulty "
+"link: {}"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:770
+#: superset/viz.py:1355 superset/viz.py:1376
+msgid "Directed Force Layout"
+msgstr ""
+
+#: superset/viz.py:1362
+msgid "Pick exactly 2 columns to 'Group By'"
+msgstr "Valitse tasan kaksi 'Group By' -saraketta"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:835
+#: superset/viz.py:1409
+msgid "Country Map"
+msgstr "Maa-kartta"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:868
+#: superset/viz.py:1437
+msgid "World Map"
+msgstr "Maailman kartta"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:80
+#: superset/viz.py:1487
+msgid "Filters"
+msgstr "Suotimet"
+
+#: superset/viz.py:1495
+msgid "Pick at least one filter field"
+msgstr "Valitse vähintään yksi suodatettava kenttä"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:933
+#: superset/viz.py:1522
+msgid "iFrame"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:945
+#: superset/viz.py:1539
+msgid "Parallel Coordinates"
+msgstr "Rinnakkaiset koordinaatit"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:967
+#: superset/viz.py:1564
+msgid "Heatmap"
+msgstr "Lämpökartta"
+
+#: superset/viz.py:1623
+msgid "Horizon Charts"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1027
+#: superset/viz.py:1634
+msgid "Mapbox"
+msgstr ""
+
+#: superset/viz.py:1649
+msgid "Must have a [Group By] column to have 'count' as the [Label]"
+msgstr ""
+
+#: superset/viz.py:1662
+msgid "Choice of [Label] must be present in [Group By]"
+msgstr ""
+
+#: superset/viz.py:1667
+msgid "Choice of [Point Radius] must be present in [Group By]"
+msgstr ""
+
+#: superset/viz.py:1672
+msgid "[Longitude] and [Latitude] columns must be present in [Group By]"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1098
+#: superset/viz.py:1738
+msgid "Event flow"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1143
+#: superset/viz.py:1769
+msgid "Time Series - Paired t-test"
+msgstr ""
+
+#: superset/viz.py:1831
+msgid "Partition Diagram"
+msgstr "Osiodiagrammi"
+
+#: superset/assets/javascripts/SqlLab/actions.js:57
+msgid "Your query was saved"
+msgstr "Kyselysi tallennettiin"
+
+#: superset/assets/javascripts/SqlLab/actions.js:58
+msgid "Your query could not be saved"
+msgstr "Kyselyä ei voitu tallentaa"
+
+#: superset/assets/javascripts/SqlLab/actions.js:111
+msgid "Failed at retrieving results from the results backend"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/actions.js:157
+msgid "Could not connect to server"
+msgstr "Ei voitu yhdistää palvelimeen"
+
+#: superset/assets/javascripts/SqlLab/actions.js:162
+msgid "Your session timed out, please refresh your page and try again."
+msgstr "Istuntosi on vanhentunut, ole hyvä ja päivitä sivu yrittääksesi uudelleen"
+
+#: superset/assets/javascripts/SqlLab/actions.js:181
+msgid "Query was stopped."
+msgstr "Kysely pysäytettiin"
+
+#: superset/assets/javascripts/SqlLab/actions.js:184
+msgid "Failed at stopping query."
+msgstr "Kyselyn pysäytys ei onnistunut"
+
+#: superset/assets/javascripts/SqlLab/actions.js:297
+#: superset/assets/javascripts/SqlLab/actions.js:310
+msgid "Error occurred while fetching table metadata"
+msgstr "Taulun tietojen haku epäonnistui"
+
+#: superset/assets/javascripts/SqlLab/actions.js:364
+msgid "shared query"
+msgstr "jaettu kysely"
+
+#: superset/assets/javascripts/SqlLab/actions.js:372
+#: superset/assets/javascripts/SqlLab/actions.js:392
+msgid "The query couldn't be loaded"
+msgstr "Kyselyä ei voitu ladata"
+
+#: superset/assets/javascripts/SqlLab/actions.js:426
+msgid "An error occurred while creating the data source"
+msgstr "Datalähdettä ei voitu luoda virheen vuoksi"
+
+#: superset/assets/javascripts/SqlLab/constants.js:30
+msgid "Pick a chart type!"
+msgstr "Valitse kaavion tyyppi!"
+
+#: superset/assets/javascripts/SqlLab/constants.js:31
+msgid "To use this chart type you need at least one column flagged as a date"
+msgstr "Tämä kaavio vaatii vähintään yhden aikasarakkeen"
+
+#: superset/assets/javascripts/SqlLab/constants.js:32
+msgid "To use this chart type you need at least one dimension"
+msgstr "Tämä kaavio vaatii vähintään yhden ulottuvuuden"
+
+#: superset/assets/javascripts/SqlLab/constants.js:33
+msgid "To use this chart type you need at least one aggregation function"
+msgstr "Tämä kaavio vaatii vähintään yhden koontifunktion"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:49
+#: superset/assets/javascripts/SqlLab/reducers.js:11
+msgid "Untitled Query"
+msgstr "Nimetön kysely"
+
+#: superset/assets/javascripts/SqlLab/reducers.js:44
+#, python-format
+msgid "Copy of %s"
+msgstr "Kopio - %s"
+
+#: superset/assets/javascripts/SqlLab/components/CopyQueryTabUrl.jsx:30
+msgid "share query"
+msgstr "jaa kysely"
+
+#: superset/assets/javascripts/SqlLab/components/CopyQueryTabUrl.jsx:33
+msgid "copy URL to clipboard"
+msgstr "kopioi URL leikepöydälle"
+
+#: superset/assets/javascripts/SqlLab/components/HighlightedSql.jsx:61
+msgid "Raw SQL"
+msgstr "Suora SQL"
+
+#: superset/assets/javascripts/SqlLab/components/HighlightedSql.jsx:71
+msgid "Source SQL"
+msgstr "SQL-lähde"
+
+#: superset/assets/javascripts/SqlLab/components/HighlightedSql.jsx:83
+#: superset/assets/javascripts/explore/stores/visTypes.js:40
+msgid "SQL"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/QueryHistory.jsx:28
+msgid "No query history yet..."
+msgstr "Kyselyhistoriaa ei vielä ole..."
+
+#: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:106
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:66
+msgid "It seems you don't have access to any database"
+msgstr "Sinulla ei näytä olevan käyttöoikeutta yhteenkään tietokantaan"
+
+#: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:154
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:89
+msgid "Search Results"
+msgstr "Hakutulokset"
+
+#: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:160
+msgid "[From]-"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:170
+msgid "[To]-"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:179
+msgid "[Query Status]"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:188
+msgid "Search"
+msgstr "Haku"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:114
+msgid "Open in SQL Editor"
+msgstr "Avaa SQL-editorissa"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:133
+msgid "view results"
+msgstr "näytä tulokset"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:136
+msgid "Data preview"
+msgstr "Tietojen esikatselu"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:176
+msgid "Visualize the data out of this query"
+msgstr "Visualisoi tämän kyselyn tulokset"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:182
+msgid "Overwrite text in editor with a query on this table"
+msgstr "Ylikirjoita muokattavana oleva teksti kyselyllä tähän tauluun"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:188
+msgid "Run query in a new tab"
+msgstr "Aja kysely uudessa välilehdessä"
+
+#: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:193
+msgid "Remove query from log"
+msgstr "Poista kysely lokista"
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:67
+msgid ".CSV"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:78
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:242
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:281
+msgid "Visualize"
+msgstr "Visualisoi"
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:162
+#: superset/connectors/sqla/views.py:84 superset/connectors/sqla/views.py:134
+#: superset/connectors/sqla/views.py:214 superset/views/core.py:389
+msgid "Table"
+msgstr "Taulu"
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:162
+msgid "was created"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:169
+msgid "Query in a new tab"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:210
+msgid "Fetch data preview"
+msgstr "Hae tietojen esikatselu"
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:230
+msgid "Track Job"
+msgstr "Seuraa työtä"
+
+#: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:236
+msgid "Loading..."
+msgstr "Lataa..."
+
+#: superset/assets/javascripts/SqlLab/components/RunQueryActionButton.jsx:19
+msgid "Run Selected Query"
+msgstr "Aja valittu kysely"
+
+#: superset/assets/javascripts/SqlLab/components/RunQueryActionButton.jsx:19
+msgid "Run Query"
+msgstr "Aja kysely"
+
+#: superset/assets/javascripts/SqlLab/components/RunQueryActionButton.jsx:22
+msgid "Run query asynchronously"
+msgstr "Aja kysely asynkronisesti"
+
+#: superset/assets/javascripts/SqlLab/components/RunQueryActionButton.jsx:57
+msgid "Stop"
+msgstr "Pysäytä"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:16
+msgid "Undefined"
+msgstr "Määrittelemätön"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:66
+#: superset/views/sql_lab.py:53
+msgid "Label"
+msgstr "Nimitys"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:71
+msgid "Label for your query"
+msgstr "Nimitys kyselyllesi"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:81
+#: superset/connectors/druid/views.py:105
+#: superset/connectors/druid/views.py:227 superset/connectors/sqla/views.py:81
+#: superset/connectors/sqla/views.py:130 superset/connectors/sqla/views.py:227
+#: superset/views/core.py:383 superset/views/sql_lab.py:56
+msgid "Description"
+msgstr "Kuvaus"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:85
+msgid "Write a description for your query"
+msgstr "Kirjoita kuvaus kyselyllesi"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:99
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:155
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:222
+msgid "Save"
+msgstr "Tallenna"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:102
+#: superset/templates/superset/request_access.html:16
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:122
+msgid "Save Query"
+msgstr "Tallenna kysely"
+
+#: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:52
+msgid "Run a query to display results here"
+msgstr "Aja kysely näyttääksesi tulokset tässä"
+
+#: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:57
+#, python-format
+msgid "Preview for %s"
+msgstr "Esikatselu - %s"
+
+#: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:81
+msgid "Results"
+msgstr "Tulokset"
+
+#: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:87
+msgid "Query History"
+msgstr "Kyselyhistoria"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditor.jsx:123
+msgid "Create table as with query results"
+msgstr "Luo uusi taulu kyselyn tuloksista"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditor.jsx:131
+msgid "new table name"
+msgstr "uuden taulun nimi"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:90
+msgid "Error while fetching table list"
+msgstr "Virhe haettaessa listaa tauluista"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:131
+msgid "Error while fetching schema list"
+msgstr "Virhe haettaessa listaa schemoista"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:153
+msgid "Error while fetching database list"
+msgstr "Virhe haettaessa listaa tietokannoista"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:159
+msgid "Database:"
+msgstr "Tietokanta:"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:163
+msgid "Select a database"
+msgstr "Valitse tietokanta"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:170
+#, python-format
+msgid "Select a schema (%s)"
+msgstr "Valitse schema (%s)"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:175
+msgid "Schema:"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:190
+#, python-format
+msgid "Add a table (%s)"
+msgstr "Lisää taulu (%s)"
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:203
+msgid "Type to search ..."
+msgstr "Kirjoita hakuehto ..."
+
+#: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:226
+msgid "Reset State"
+msgstr "Nollaa tila"
+
+#: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:105
+msgid "Enter a new title for the tab"
+msgstr "Anna uusi otsikko välilehdelle"
+
+#: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:124
+#, python-format
+msgid "Untitled Query %s"
+msgstr "Nimetön kysely %s"
+
+#: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:170
+msgid "close tab"
+msgstr "sulje välilehti"
+
+#: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:173
+msgid "rename tab"
+msgstr "nimeä välilehti"
+
+#: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:181
+msgid "expand tool bar"
+msgstr "laajenna työkaluvalikko"
+
+#: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:181
+msgid "hide tool bar"
+msgstr "piilota työkaluvalikko"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:75
+msgid "Copy partition query to clipboard"
+msgstr "Kopioi osiokysely leikepöydälle"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:94
+msgid "latest partition:"
+msgstr "uusin osio:"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:110
+msgid "Keys for table"
+msgstr "Avaimet taululle"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:119
+#, python-format
+msgid "View keys & indexes (%s)"
+msgstr "Näytä avaimet ja indeksit (%s)"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:135
+msgid "Sort columns alphabetically"
+msgstr "Lajittele sarakkeet aakkosjärjestyksessä"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:136
+msgid "Original table column order"
+msgstr "Taulun alkuperäinen sarakejärjestys"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:146
+msgid "Copy SELECT statement to clipboard"
+msgstr "Kopioi SELECT-lause leikepöydälle"
+
+#: superset/assets/javascripts/SqlLab/components/TableElement.jsx:152
+msgid "Remove table preview"
+msgstr "Poista taulun esikatselu"
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:90
+#, python-format
+msgid "%s is not right as a column name, please alias it (as in SELECT count(*) "
+msgstr "%s ei ole kelvollinen nimi sarakkeelle, ole hyvä ja tee siitä alias (niikuin SELECT count(*) "
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:91
+msgid "AS my_alias"
+msgstr ""
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:91
+msgid "using only alphanumeric characters and underscores"
+msgstr "käyttäen vain alfanumeerisia merkkejä ja alaviivaa"
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:167
+msgid "Creating a data source and popping a new tab"
+msgstr "Uuden datalähteen luonti ja välilehden avaaminen"
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:197
+msgid "No results available for this query"
+msgstr "Ei tuloksia tälle kyselylle"
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:249
+msgid "Chart Type"
+msgstr "Kaavion tyyppi"
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:252
+msgid "[Chart Type]"
+msgstr "[Kaavion tyyppi]"
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:260
+msgid "Datasource Name"
+msgstr "Tietolähteen nimi"
+
+#: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:264
+msgid "datasource name"
+msgstr "tietolähteen nimi"
+
+#: superset/assets/javascripts/addSlice/AddSliceContainer.jsx:54
+msgid "Create a new slice"
+msgstr "Luo uusi siivu"
+
+#: superset/assets/javascripts/addSlice/AddSliceContainer.jsx:59
+#: superset/assets/javascripts/addSlice/AddSliceContainer.jsx:65
+msgid "Choose a datasource"
+msgstr "Valitse tietolähde"
+
+#: superset/assets/javascripts/addSlice/AddSliceContainer.jsx:71
+#: superset/assets/javascripts/addSlice/AddSliceContainer.jsx:77
+msgid "Choose a visualization type"
+msgstr "Valitse visualisoinnin tyyppi"
+
+#: superset/assets/javascripts/addSlice/AddSliceContainer.jsx:87
+msgid "Create new slice"
+msgstr "Luo uusi siivu"
+
+#: superset/assets/javascripts/components/AsyncSelect.jsx:23
+#: superset/assets/javascripts/explore/components/controls/SelectAsyncControl.jsx:26
+msgid "Select ..."
+msgstr "Valitse ..."
+
+#: superset/assets/javascripts/components/CachedLabel.jsx:26
+msgid "Loaded data cached"
+msgstr "Tiedot ladattu välimuistiin"
+
+#: superset/assets/javascripts/components/CachedLabel.jsx:29
+msgid "Loaded from cache"
+msgstr "Tiedot ladattu välimuistista"
+
+#: superset/assets/javascripts/components/CachedLabel.jsx:33
+msgid "Click to force-refresh"
+msgstr "Klikkaa pakottaaksesi päivitys"
+
+#: superset/assets/javascripts/components/CopyToClipboard.jsx:21
+#: superset/assets/javascripts/explore/components/EmbedCodeButton.jsx:67
+#: superset/assets/javascripts/explore/components/URLShortLinkButton.jsx:37
+msgid "Copy to clipboard"
+msgstr "Kopioi leikepöydälle"
+
+#: superset/assets/javascripts/components/CopyToClipboard.jsx:70
+msgid "Not successful"
+msgstr "Epäonnistunut"
+
+#: superset/assets/javascripts/components/CopyToClipboard.jsx:73
+msgid "Sorry, your browser does not support copying. Use Ctrl / Cmd + C!"
+msgstr "Valitettavasti selaimesi ei tue kopiointia. Käytä Ctrl + C tai Cmd + C!"
+
+#: superset/assets/javascripts/components/CopyToClipboard.jsx:89
+msgid "Copied!"
+msgstr "Kopioitu!"
+
+#: superset/assets/javascripts/components/EditableTitle.jsx:13
+#: superset/views/core.py:489 superset/views/core.py:556
+msgid "Title"
+msgstr "Otsikko"
+
+#: superset/assets/javascripts/components/EditableTitle.jsx:92
+msgid "click to edit title"
+msgstr "klikkaa muokataksesi otsikkoa"
+
+#: superset/assets/javascripts/components/EditableTitle.jsx:93
+msgid "You don't have the rights to alter this title."
+msgstr "Sinulla ei ole oikeuksia muokata tätä otsikkoa"
+
+#: superset/assets/javascripts/components/FaveStar.jsx:32
+#: superset/assets/javascripts/modules/superset.js:33
+msgid "Click to favorite/unfavorite"
+msgstr "Klikkaa suosikiksi/pois suosikeista"
+
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:42
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:59
+msgid "You have unsaved changes."
+msgstr "Sinulla on tallentamattomia muutoksia"
+
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:59
+msgid "Click the"
+msgstr "Klikkaa"
+
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:61
+msgid "button on the top right to save your changes."
+msgstr "painiketta yläoikealla tallentaaksesi muutokset."
+
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:165
+#, python-format
+msgid "Served from data cached %s . Click to force refresh."
+msgstr "Haettu välimuistista joka on päivittynyt %s . Klikkaa pakottaaksesi uudelleenpäivitys."
+
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:170
+msgid "Click to force refresh"
+msgstr "Klikkaa pakottaaksesi uudelleenpäivitys"
+
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:358
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:100
+msgid "Error"
+msgstr "Virhe"
+
+#: superset/assets/javascripts/dashboard/Dashboard.jsx:359
+#, python-format
+msgid "Sorry, there was an error adding slices to this dashboard: %s"
+msgstr "Valitettavasti siivun lisääminen infotauluun ei onnistunut: %s"
+
+#: superset/assets/javascripts/dashboard/components/CodeModal.jsx:35
+msgid "Active Dashboard Filters"
+msgstr "Aktiiviset infotaulun suodattimet"
+
+#: superset/assets/javascripts/dashboard/components/Controls.jsx:47
+#, python-format
+msgid "Checkout this dashboard: %s"
+msgstr ""
+
+#: superset/assets/javascripts/dashboard/components/Controls.jsx:53
+msgid "Force refresh the whole dashboard"
+msgstr "Pakota päivitys koko infotaululle"
+
+#: superset/assets/javascripts/dashboard/components/Controls.jsx:93
+msgid "Edit this dashboard's properties"
+msgstr "Muokkaa infotaulun ominaisuuksia"
+
+#: superset/assets/javascripts/dashboard/components/CssEditor.jsx:65
+msgid "Load a template"
+msgstr "Lataa malli"
+
+#: superset/assets/javascripts/dashboard/components/CssEditor.jsx:68
+msgid "Load a CSS template"
+msgstr "Lataa CSS-malli"
+
+#: superset/assets/javascripts/dashboard/components/CssEditor.jsx:80
+#: superset/views/core.py:496
+msgid "CSS"
+msgstr ""
+
+#: superset/assets/javascripts/dashboard/components/CssEditor.jsx:86
+msgid "Live CSS Editor"
+msgstr "Reaaliaikainen CSS-editori"
+
+#: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:19
+msgid "Don't refresh"
+msgstr "Älä päivitä"
+
+#: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:20
+msgid "10 seconds"
+msgstr "10 sekuntia"
+
+#: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:21
+msgid "30 seconds"
+msgstr "30 sekuntia"
+
+#: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:22
+msgid "1 minute"
+msgstr "1 minuutti"
+
+#: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:23
+msgid "5 minutes"
+msgstr "5 minuuttia"
+
+#: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:38
+msgid "Refresh Interval"
+msgstr "Päivitysväli"
+
+#: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:41
+msgid "Choose the refresh frequency for this dashboard"
+msgstr "Valitse päivitystaajuus tälle infotaululle"
+
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:63
+msgid "This dashboard was saved successfully."
+msgstr "Infotaulu tallennettiin onnistuneesti."
+
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:69
+msgid "Sorry, there was an error saving this dashboard: "
+msgstr "Infotaulua ei voitu tallentaa: "
+
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:101
+msgid "You must pick a name for the new dashboard"
+msgstr "Anna uusi nimi infotaululle"
+
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:115
+msgid "Save Dashboard"
+msgstr "Tallenna infotaulu"
+
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:123
+#, python-format
+msgid "Overwrite Dashboard [%s]"
+msgstr "Ylikirjoita infotaulu [%s]"
+
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:131
+msgid "Save as:"
+msgstr "Tallenna nimellä:"
+
+#: superset/assets/javascripts/dashboard/components/SaveModal.jsx:135
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:210
+msgid "[dashboard name]"
+msgstr "[infotaulun nimi]"
+
+#: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:142
+#: superset/views/core.py:388
+msgid "Name"
+msgstr "Nimi"
+
+#: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:148
+msgid "Viz"
+msgstr ""
+
+#: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:157
+#: superset/views/core.py:494 superset/views/core.py:558
+#: superset/views/sql_lab.py:57
+msgid "Modified"
+msgstr "Muokattu"
+
+#: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:167
+msgid "Add Slices"
+msgstr "Lisää siivuja"
+
+#: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:176
+msgid "Add a new slice to the dashboard"
+msgstr "Lisää siivu infotaululle"
+
+#: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:181
+msgid "Add Slices to Dashboard"
+msgstr "Lisää siivuja infotaululle"
+
+#: superset/assets/javascripts/dashboard/components/SliceCell.jsx:37
+msgid "Move chart"
+msgstr "Siirrä kaaviota"
+
+#: superset/assets/javascripts/dashboard/components/SliceCell.jsx:40
+msgid "Force refresh data"
+msgstr "Pakota tietojen päivitys"
+
+#: superset/assets/javascripts/dashboard/components/SliceCell.jsx:44
+msgid "Toggle chart description"
+msgstr "Näytä/piilota kaavion kuvaus"
+
+#: superset/assets/javascripts/dashboard/components/SliceCell.jsx:54
+msgid "Edit chart"
+msgstr "Muokkaa kaaviota"
+
+#: superset/assets/javascripts/dashboard/components/SliceCell.jsx:62
+msgid "Export CSV"
+msgstr "Vie CSV"
+
+#: superset/assets/javascripts/dashboard/components/SliceCell.jsx:70
+msgid "Explore chart"
+msgstr "Tutki kaaviota"
+
+#: superset/assets/javascripts/dashboard/components/SliceCell.jsx:77
+msgid "Remove chart from dashboard"
+msgstr "Poista kaavio infotaululta"
+
+#: superset/assets/javascripts/explore/validators.js:11
+msgid "is expected to be a number"
+msgstr "täytyy olla numero"
+
+#: superset/assets/javascripts/explore/validators.js:18
+msgid "is expected to be an integer"
+msgstr "täytyy olla kokonaisluku"
+
+#: superset/assets/javascripts/explore/validators.js:30
+msgid "cannot be empty"
+msgstr "ei voi olla tyhjä"
+
+#: superset/assets/javascripts/explore/components/ChartContainer.jsx:180
+#, python-format
+msgid "%s - untitled"
+msgstr "%s - nimetön"
+
+#: superset/assets/javascripts/explore/components/ChartContainer.jsx:287
+msgid "Edit slice properties"
+msgstr "Muokkaa siivun ominaisuuksia"
+
+#: superset/assets/javascripts/explore/components/ControlHeader.jsx:32
+msgid "description"
+msgstr "kuvaus"
+
+#: superset/assets/javascripts/explore/components/ControlHeader.jsx:42
+msgid "bolt"
+msgstr "pultti"
+
+#: superset/assets/javascripts/explore/components/ControlHeader.jsx:43
+msgid "Changing this control takes effect instantly"
+msgstr "Tämän muuttamisella on välitön vaikutus"
+
+#: superset/assets/javascripts/explore/components/DisplayQueryButton.jsx:63
+msgid "Error..."
+msgstr "Virhe..."
+
+#: superset/assets/javascripts/explore/components/DisplayQueryButton.jsx:114
+#: superset/assets/javascripts/explore/stores/visTypes.js:56
+#: superset/assets/javascripts/explore/stores/visTypes.js:100
+#: superset/assets/javascripts/explore/stores/visTypes.js:138
+#: superset/assets/javascripts/explore/stores/visTypes.js:378
+#: superset/assets/javascripts/explore/stores/visTypes.js:416
+#: superset/assets/javascripts/explore/stores/visTypes.js:463
+#: superset/assets/javascripts/explore/stores/visTypes.js:484
+#: superset/assets/javascripts/explore/stores/visTypes.js:512
+#: superset/assets/javascripts/explore/stores/visTypes.js:532
+#: superset/assets/javascripts/explore/stores/visTypes.js:553
+#: superset/assets/javascripts/explore/stores/visTypes.js:605
+#: superset/assets/javascripts/explore/stores/visTypes.js:627
+#: superset/assets/javascripts/explore/stores/visTypes.js:652
+#: superset/assets/javascripts/explore/stores/visTypes.js:677
+#: superset/assets/javascripts/explore/stores/visTypes.js:709
+#: superset/assets/javascripts/explore/stores/visTypes.js:746
+#: superset/assets/javascripts/explore/stores/visTypes.js:773
+#: superset/assets/javascripts/explore/stores/visTypes.js:800
+#: superset/assets/javascripts/explore/stores/visTypes.js:838
+#: superset/assets/javascripts/explore/stores/visTypes.js:871
+#: superset/assets/javascripts/explore/stores/visTypes.js:908
+#: superset/assets/javascripts/explore/stores/visTypes.js:948
+#: superset/assets/javascripts/explore/stores/visTypes.js:970
+#: superset/assets/javascripts/explore/stores/visTypes.js:1030
+msgid "Query"
+msgstr "Kysely"
+
+#: superset/assets/javascripts/explore/components/EmbedCodeButton.jsx:76
+msgid "Height"
+msgstr "Korkeus"
+
+#: superset/assets/javascripts/explore/components/EmbedCodeButton.jsx:90
+msgid "Width"
+msgstr "Leveys"
+
+#: superset/assets/javascripts/explore/components/ExploreActionButtons.jsx:32
+msgid "Export to .json"
+msgstr "Vie .json"
+
+#: superset/assets/javascripts/explore/components/ExploreActionButtons.jsx:42
+msgid "Export to .csv format"
+msgstr "Vie .csv-muodossa"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:74
+msgid "Please enter a slice name"
+msgstr "Anna siivun nimi"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:89
+msgid "Please select a dashboard"
+msgstr "Valitse infotaulu"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:97
+msgid "Please enter a dashboard name"
+msgstr "Anna infotaulun nimi"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:134
+msgid "Save A Slice"
+msgstr "Tallenna siivu"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:155
+#, python-format
+msgid "Overwrite slice %s"
+msgstr "Ylikirjoita siivu %s"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:164
+msgid "Save as"
+msgstr "Tallenna nimellä"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:168
+msgid "[slice name]"
+msgstr "[siivun nimi]"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:181
+msgid "Do not add to a dashboard"
+msgstr "Älä lisää infotauluun"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:189
+msgid "Add slice to existing dashboard"
+msgstr "Lisää siivu olemassa olevaan infotauluun"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:205
+msgid "Add to new dashboard"
+msgstr "Lisää uuteen infotauluun"
+
+#: superset/assets/javascripts/explore/components/SaveModal.jsx:231
+msgid "Save & go to dashboard"
+msgstr "Tallenna ja siirry infotauluun"
+
+#: superset/assets/javascripts/explore/components/URLShortLinkButton.jsx:32
+#, python-format
+msgid "Check out this slice: %s"
+msgstr ""
+
+#: superset/assets/javascripts/explore/components/controls/BoundsControl.jsx:50
+msgid "`Min` value should be numeric or empty"
+msgstr "`Min` -arvo täytyy olla numeerinen tai tyhjä"
+
+#: superset/assets/javascripts/explore/components/controls/BoundsControl.jsx:53
+msgid "`Max` value should be numeric or empty"
+msgstr "`Max` -arvo täytyy olla numeerinen tai tyhjä"
+
+#: superset/assets/javascripts/explore/components/controls/BoundsControl.jsx:70
+#: superset/connectors/druid/views.py:48 superset/connectors/sqla/views.py:87
+msgid "Min"
+msgstr "Minimi"
+
+#: superset/assets/javascripts/explore/components/controls/BoundsControl.jsx:78
+#: superset/connectors/druid/views.py:49 superset/connectors/sqla/views.py:88
+msgid "Max"
+msgstr "Maksimi"
+
+#: superset/assets/javascripts/explore/components/controls/DatasourceControl.jsx:70
+msgid "Something went wrong while fetching the datasource list"
+msgstr "Jotain meni pieleen haettaessa tietolähteitä"
+
+#: superset/assets/javascripts/explore/components/controls/DatasourceControl.jsx:95
+msgid "Click to point to another datasource"
+msgstr "Klikkaa vaihtaaksesi tietolähdettä"
+
+#: superset/assets/javascripts/explore/components/controls/DatasourceControl.jsx:106
+msgid "Edit the datasource's configuration"
+msgstr "Muokkaa tietolähteen asetuksia"
+
+#: superset/assets/javascripts/explore/components/controls/DatasourceControl.jsx:122
+msgid "Select a datasource"
+msgstr "Valitse tietolähde"
+
+#: superset/assets/javascripts/explore/components/controls/DatasourceControl.jsx:132
+#: superset/assets/javascripts/explore/components/controls/VizTypeControl.jsx:120
+msgid "Search / Filter"
+msgstr "Hae / Suodata"
+
+#: superset/assets/javascripts/explore/components/controls/Filter.jsx:114
+msgid "Filter value"
+msgstr "Suodattimen arvo"
+
+#: superset/assets/javascripts/explore/components/controls/Filter.jsx:143
+msgid "Select metric"
+msgstr "Valitse metriikka"
+
+#: superset/assets/javascripts/explore/components/controls/Filter.jsx:143
+msgid "Select column"
+msgstr "Valitse sarake"
+
+#: superset/assets/javascripts/explore/components/controls/Filter.jsx:155
+msgid "Select operator"
+msgstr "Valitse operaattori"
+
+#: superset/assets/javascripts/explore/components/controls/FilterControl.jsx:138
+#: superset/templates/appbuilder/general/widgets/search.html:6
+msgid "Add Filter"
+msgstr "Lisää suodatin"
+
+#: superset/assets/javascripts/explore/components/controls/SelectAsyncControl.jsx:24
+msgid "Error while fetching data"
+msgstr "Virhe haettaessa tietoja"
+
+#: superset/assets/javascripts/explore/components/controls/SelectControl.jsx:155
+#, python-format
+msgid "Select %s"
+msgstr "Valitse %s"
+
+#: superset/assets/javascripts/explore/components/controls/TextAreaControl.jsx:63
+msgid "textarea"
+msgstr ""
+
+#: superset/assets/javascripts/explore/components/controls/TextAreaControl.jsx:81
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: superset/assets/javascripts/explore/components/controls/TextAreaControl.jsx:81
+msgid "in modal"
+msgstr ""
+
+#: superset/assets/javascripts/explore/components/controls/VizTypeControl.jsx:110
+msgid "Select a visualization type"
+msgstr "Valitse visualisointityyppi"
+
+#: superset/assets/javascripts/explore/reducers/chartReducer.js:32
+msgid "Updating chart was stopped"
+msgstr "Kaavion päivitys pysähtyi"
+
+#: superset/assets/javascripts/explore/reducers/chartReducer.js:38
+#: superset/assets/javascripts/modules/superset.js:226
+#, python-format
+msgid "An error occurred while rendering the visualization: %s"
+msgstr "Visualisointi pysähtyi virheeseen: %s"
+
+#: superset/assets/javascripts/explore/reducers/chartReducer.js:47
+msgid ""
+"Perhaps your data has grown, your database is under unusual load, or you "
+"are simply querying a data source that is to large to be processed within"
+" the timeout range. If that is the case, we recommend that you summarize "
+"your data further."
+msgstr ""
+"Ehkä tietomäärä on kasvanut, tietokanta on tavallista suuremman"
+"kuormituksen alaisena tai olet hakemassa liian suurta tietomäärää jota ei"
+"voida käsitellä aikarajan sisällä. Siinä tapauksesssa suosittelemme että"
+"muokkaat hakua niin että sen tuloksiin sovelletaan enemmän yhteenvetoa."
+
+#: superset/assets/javascripts/explore/reducers/chartReducer.js:56
+msgid "Network error."
+msgstr "Verkkovirhe."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:37
+msgid "A reference to the [Time] configuration, taking granularity into account"
+msgstr "Viittaus [Aika] -asetukseen, joka ottaa huomioon jaksotuksen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:51
+msgid "Group by"
+msgstr "Ryhmittely"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:54
+msgid "One or many controls to group by"
+msgstr "Yksi tai useampi ryhmittelyvalinta"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:73
+#: superset/connectors/druid/views.py:43 superset/views/core.py:326
+#: superset/views/core.py:350 superset/views/core.py:382
+msgid "Datasource"
+msgstr "Tietolähde"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:83
+#: superset/views/core.py:390
+msgid "Visualization Type"
+msgstr "Visualisointityyppi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:85
+msgid "The type of visualization to display"
+msgstr "Näytettävän visualisoinnin tyyppi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:91
+msgid "Metrics"
+msgstr "Metriikat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:100
+#: superset/assets/javascripts/explore/stores/controls.jsx:132
+msgid "One or many metrics to display"
+msgstr "Yksi tai useampi näytettävä metriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:106
+msgid "Percentage Metrics"
+msgstr "Prosenttimetriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:113
+msgid "Metrics for which percentage of total are to be displayed"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:118
+msgid "Y Axis Bounds"
+msgstr "Y-akselin rajat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:121
+msgid ""
+"Bounds for the Y axis. When left empty, the bounds are dynamically "
+"defined based on the min/max of the data. Note that this feature will "
+"only expand the axis range. It won't narrow the data's extent."
+msgstr ""
+"Rajat Y-akselille. Jos tämä on tyhjä, rajat määritetään automaattisesti"
+"tietojen maksimi- ja minimiarvojen mukaan. Tämä asetus voi ainoastaan "
+"laajentaa aluetta, ei pienentää sitä."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:130
+msgid "Ordering"
+msgstr "Järjestys"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:141
+#: superset/views/annotations.py:47
+msgid "Annotation Layers"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:143
+msgid "Annotation layers to overlay on the visualization"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:145
+msgid "Select a annotation layer"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:146
+msgid "Error while fetching annotation layers"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:157
+#: superset/assets/javascripts/explore/stores/visTypes.js:859
+#: superset/connectors/druid/views.py:104 superset/connectors/sqla/views.py:129
+msgid "Metric"
+msgstr "Metriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:159
+msgid "Choose the metric"
+msgstr "Valitse metriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:172
+msgid "Right Axis Metric"
+msgstr "Oikean akselin metriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:176
+msgid "Choose a metric for right axis"
+msgstr "Valitse metriikka oikeanpuoleiselle akselille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:187
+msgid "Stacked Style"
+msgstr "Pinottu tyyli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:199
+msgid "Sort X Axis"
+msgstr "Järjestä X-akseli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:207
+msgid "Sort Y Axis"
+msgstr "Järjestä Y-akseli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:215
+msgid "Linear Color Scheme"
+msgstr "Lineaarinen värikartta"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:233
+msgid "Normalize Across"
+msgstr "Normalisoi käyttäen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:240
+msgid ""
+"Color will be rendered based on a ratio of the cell against the sum of "
+"across this criteria"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:247
+msgid "Horizon Color Scale"
+msgstr "Horisontin väriskaala"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:254
+msgid "Defines how the color are attributed."
+msgstr "Määrittää miten värit johdetaan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:259
+msgid "Rendering"
+msgstr "Esitys"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:266
+msgid ""
+"image-rendering CSS attribute of the canvas object that defines how the "
+"browser scales up the image"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:272
+msgid "XScale Interval"
+msgstr "X-akselin skaalausintervalli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:275
+msgid "Number of steps to take between ticks when displaying the X scale"
+msgstr "Kuinka monta askelta tikkien välissä X-akselilla"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:281
+msgid "YScale Interval"
+msgstr "Y-akselin skaalausintervalli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:284
+msgid "Number of steps to take between ticks when displaying the Y scale"
+msgstr "Kuinka monta askelta tikkien välillä Y-akselilla"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:290
+msgid "Include Time"
+msgstr "Näytä aika"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:291
+msgid "Whether to include the time granularity as defined in the time section"
+msgstr "Näytetäänkö aikarakeisuus niinkuin määritelty aika-osiossa"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:297
+msgid "Show percentage"
+msgstr "Näytä prosentit"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:299
+msgid "Whether to include the percentage in the tooltip"
+msgstr "Näytetäänkö prosentit työkaluvinkissä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:305
+msgid "Stacked Bars"
+msgstr "Pinotut palkit"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:313
+msgid "Show totals"
+msgstr "Näytä summat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:316
+msgid "Display total row/column"
+msgstr "Näytä rivi/sarakesummat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:321
+msgid "Show Markers"
+msgstr "Näytä merkit"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:324
+msgid "Show data points as circle markers on the lines"
+msgstr "Näytä datapisteet ympyröinä viivoilla"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:329
+msgid "Bar Values"
+msgstr "Palkkien arvot"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:332
+msgid "Show the value on top of the bar"
+msgstr "Näytä arvo palkin yläosassa"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:337
+msgid "Sort Bars"
+msgstr "Järjestä palkit"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:339
+msgid "Sort bars by x labels."
+msgstr "Järjestä palkit X-merkinnän mukaan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:344
+msgid "Combine Metrics"
+msgstr "Yhdistä metriikat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:346
+msgid ""
+"Display metrics side by side within each column, as opposed to each "
+"column being displayed side by side for each metric."
+msgstr ""
+"Näytä metriikat vierekkäin sarakkeessa, eikä niin että joka"
+"sarakkeet näytetään vierekkäin."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:352
+msgid "Extra Controls"
+msgstr "Lisävalinnat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:355
+msgid ""
+"Whether to show extra controls or not. Extra controls include things like"
+" making mulitBar charts stacked or side by side."
+msgstr ""
+"Määrittää näytetäänkö lisävalinnat. Lisävalintoja ovat esim."
+" monipalkkikaavioiden näyttäminen pinottuna tai vierekkäin."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:362
+msgid "Reduce X ticks"
+msgstr "Vähennä X-tikkejä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:365
+msgid ""
+"Reduces the number of X axis ticks to be rendered. If true, the x axis "
+"wont overflow and labels may be missing. If false, a minimum width will "
+"be applied to columns and the width may overflow into an horizontal "
+"scroll."
+msgstr ""
+"Pienentää X-akselin tikkien määrää. Jos asetettu, X-akseli ei voi "
+"ylivuotaa ja merkintöjä voi jäädä pois. Jos ei asetettu, "
+"sarakkeelle määrätään vähimmäisleveys ja se voi ylivuotaa "
+"vaakatasoiseksi vieritykseksi."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:374
+msgid "Include Series"
+msgstr "Sisällytä sarja"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:377
+msgid "Include series name as an axis"
+msgstr "Sisällytä sarjan nimi akselina"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:382
+msgid "Color Metric"
+msgstr "Värimetriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:384
+msgid "A metric to use for color"
+msgstr "Metriikka joka määrää värin"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:391
+msgid "Country Name"
+msgstr "Maan nimi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:410
+msgid "The name of country that Superset should display"
+msgstr "Maan nimi joka tulee näyttää"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:414
+msgid "Country Field Type"
+msgstr "Maa-kentän tyyppi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:422
+msgid ""
+"The country code standard that Superset should expect to find in the "
+"[country] column"
+msgstr "Maakoodistandardi jota käytetään [maa] -sarakkeessa"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:429
+#: superset/assets/javascripts/explore/stores/controls.jsx:436
+msgid "Columns"
+msgstr "Sarakkeet"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:430
+msgid "One or many controls to pivot as columns"
+msgstr "Yksi tai useampi valinta jotka pivotoidaan sarakkeiksi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:438
+#: superset/assets/javascripts/explore/stores/controls.jsx:448
+#: superset/assets/javascripts/explore/stores/controls.jsx:458
+msgid "Columns to display"
+msgstr "Näytettävät sarakkeet"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:467
+msgid "Origin"
+msgstr "Alkuperä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:473
+msgid ""
+"Defines the origin where time buckets start, accepts natural dates as in "
+"`now`, `sunday` or `1970-01-01`"
+msgstr ""
+"Määrittää alkuhetken josta aikasaavit alkavat, voi ottaa luonnollisen "
+"päivämäärän (englanniksi) kuten `now`, `sunday` tai `1970-01-01`"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:480
+msgid "Bottom Margin"
+msgstr "Alamarginaali"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:484
+msgid "Bottom margin, in pixels, allowing for more room for axis labels"
+msgstr "Alamarginaali pikseleinä, jos haluat lisätilaa akseleiden nimille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:490
+msgid "Left Margin"
+msgstr "Vasen marginaali"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:494
+msgid "Left margin, in pixels, allowing for more room for axis labels"
+msgstr "Vasen marginaali pikseleinä, jos haluat lisätilaa akseleiden nimille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:500
+msgid "Time Granularity"
+msgstr "Aikarakeisuus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:517
+msgid ""
+"The time granularity for the visualization. Note that you can type and "
+"use simple natural language as in `10 seconds`, `1 day` or `56 weeks`"
+msgstr ""
+"Visualisoinnin aikarakeisuus. Voit käyttää myös yksinkertaisia "
+"(englanninkielisiä) sanoja kuten `10 seconds`, `1 day` tai "
+"`56 weeks`"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:524
+msgid "Domain"
+msgstr "Alue"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:527
+msgid "The time unit used for the grouping of blocks"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:532
+msgid "Subdomain"
+msgstr "Alialue"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:535
+msgid ""
+"The time unit for each block. Should be a smaller unit than "
+"domain_granularity. Should be larger or equal to Time Grain"
+msgstr ""
+"Aikayksikkö kullekin lohkolle. Tulee olla pienempi kuin "
+"domain_granularity. Tulee olla suurempi tai yhtäsuuri kuin "
+"valittu aikarakeisuus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:542
+msgid "Link Length"
+msgstr "Linkin pituus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:545
+msgid "Link length in the force layout"
+msgstr "Linkin pituus voima-asettelussa"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:551
+msgid "Charge"
+msgstr "Varaus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:565
+msgid "Charge in the force layout"
+msgstr "Varaus voima-asettelussa"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:573
+msgid ""
+"The time column for the visualization. Note that you can define arbitrary"
+" expression that return a DATETIME column in the table or. Also note that"
+" the filter below is applied against this column or expression"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:586
+msgid "Time Grain"
+msgstr "Aikarakeisuus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:588
+msgid ""
+"The time granularity for the visualization. This applies a date "
+"transformation to alter your time column and defines a new time "
+"granularity. The options here are defined on a per database engine basis "
+"in the Superset source code."
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:601
+msgid "Resample Rule"
+msgstr "Uudelleenotantasääntö"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:604
+msgid "Pandas resample rule"
+msgstr "Pandas uudelleenotantasääntö"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:610
+msgid "Resample How"
+msgstr "Uudelleenotantamenetelmä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:613
+msgid "Pandas resample how"
+msgstr "Pandas uudelleenotantamenetelmä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:619
+msgid "Resample Fill Method"
+msgstr "Uudelleenotannan täyttömenetelmä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:622
+msgid "Pandas resample fill method"
+msgstr "Pandas uudelleenotannan täyttömenetelmä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:628
+msgid "Since"
+msgstr "Alkaen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:629
+msgid "7 days ago"
+msgstr "7 päivää sitten"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:635
+msgid "Until"
+msgstr "Asti"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:642
+msgid "Max Bubble Size"
+msgstr "Kuplan maksimikoko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:650
+msgid "Whisker/outlier options"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:652
+msgid "Determines how whiskers and outliers are calculated."
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:663
+msgid "Ratio"
+msgstr "Suhde"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:666
+msgid "Target aspect ratio for treemap tiles."
+msgstr "Tavoitesuhde puukartan tiilille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:672
+#: superset/assets/javascripts/explore/stores/visTypes.js:643
+#: superset/assets/javascripts/explore/stores/visTypes.js:668
+#: superset/assets/javascripts/explore/stores/visTypes.js:817
+msgid "Number format"
+msgstr "Lukumuoto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:682
+msgid "Row limit"
+msgstr "Rivimäärän rajoitus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:690
+msgid "Series limit"
+msgstr "Sarjan rajoitus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:693
+msgid "Limits the number of time series that get displayed"
+msgstr "Rajoittaa kuinka monta aikasarjaa näytetään"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:698
+msgid "Sort By"
+msgstr "Lajittele"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:700
+msgid "Metric used to define the top series"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:708
+msgid "Sort Descending"
+msgstr "Lajittele laskevasti"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:710
+msgid "Whether to sort descending or ascending"
+msgstr "Lajitellaanko laskevasti vai nousevasti"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:715
+msgid "Rolling"
+msgstr "Rullaava"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:718
+msgid ""
+"Defines a rolling window function to apply, works along with the "
+"[Periods] text box"
+msgstr ""
+"Määrittää käyttöön rullaavan window-funktion, joka toimii "
+"[Jaksot] tekstilaatikon kanssa"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:724
+msgid "Periods"
+msgstr "Jaksot"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:726
+msgid ""
+"Defines the size of the rolling window function, relative to the time "
+"granularity selected"
+msgstr ""
+"Määrittää rullaavan ikkunafunktion koon, suhteessa määritettyyn "
+"aikarakeisuuteen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:732
+msgid "Min Periods"
+msgstr "Jaksoja vähintään"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:734
+msgid ""
+"The minimum number of rolling periods required to show a value. For "
+"instance if you do a cumulative sum on 7 days you may want your \"Min "
+"Period\" to be 7, so that all data points shown are the total of 7 "
+"periods. This will hide the \"ramp up\" taking place over the first 7 "
+"periods"
+msgstr ""
+"Pienin määrä rullausjaksoja joka vaaditaan arvon näyttämiseksi. "
+"Jos otat kumulatiivisen summan 7 päivän ajalta, saatat haluta asettaa "
+"jaksojen vähimmäismääräksi 7, jotta kaikki näytteet otetaan samalta "
+"jaksolta. Tämä piilottaa alussa olevan \"käynnistysvaiheen\" 7 jakson  "
+"ajalta"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:743
+#: superset/assets/javascripts/explore/stores/visTypes.js:124
+msgid "Series"
+msgstr "Sarja"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:745
+msgid ""
+"Defines the grouping of entities. Each series is shown as a specific "
+"color on the chart and has a legend toggle"
+msgstr ""
+"Määrittää kokonaisuuksien ryhmittelyn. Jokainen sarja näytetään "
+"omalla värillään kaaviossa jossa sen näkyvyyttä voi muuttaa."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:755
+msgid "Entity"
+msgstr "Kokonaisuus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:758
+msgid "This defines the element to be plotted on the chart"
+msgstr "Tämä määrittää elementin joka piirretään kaaviolle"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:766
+#: superset/assets/javascripts/explore/stores/visTypes.js:173
+#: superset/assets/javascripts/explore/stores/visTypes.js:574
+msgid "X Axis"
+msgstr "X-akseli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:767
+msgid "Metric assigned to the [X] axis"
+msgstr "X-akseliin määrätty metriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:780
+#: superset/assets/javascripts/explore/stores/visTypes.js:180
+#: superset/assets/javascripts/explore/stores/visTypes.js:582
+msgid "Y Axis"
+msgstr "Y-akseli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:783
+msgid "Metric assigned to the [Y] axis"
+msgstr "Y-akseliin määrätty metriikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:794
+msgid "Bubble Size"
+msgstr "Kuplan koko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:807
+msgid "URL"
+msgstr "URL"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:808
+msgid ""
+"The URL, this control is templated, so you can integrate {{ width }} "
+"and/or {{ height }} in your URL string."
+msgstr ""
+"URL, eli osoite käyttää templatea, joten voi upottaa asetukset "
+"{{ width }} ja/tai {{ height }} merkkijonoon."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:815
+msgid "X Axis Label"
+msgstr "X-akselin nimi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:822
+msgid "Y Axis Label"
+msgstr "Y-akselin nimi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:829
+msgid "Custom WHERE clause"
+msgstr "Oma WHERE-lauseke"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:831
+msgid ""
+"The text in this box gets included in your query's WHERE clause, as an "
+"AND to other criteria. You can include complex expression, parenthesis "
+"and anything else supported by the backend it is directed towards."
+msgstr ""
+"Tähän laatikkoon syötetty teksti lisätään kyselyyn WHERE-lauseeseen "
+"yhdistettynä AND-operaatiolla muihin ehtolauseisiin. Voit käyttää "
+"mitä tahansa käytössä olevan tietokannan tukemia lausekkeita. "
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:839
+msgid "Custom HAVING clause"
+msgstr "Oma HAVING-lauseke"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:841
+msgid ""
+"The text in this box gets included in your query's HAVING clause, as an "
+"AND to other criteria. You can include complex expression, parenthesis "
+"and anything else supported by the backend it is directed towards."
+msgstr ""
+"Tähän laatikkoon syötetty teksti lisätään kyselyyn HAVING-lauseeseen "
+"yhdistettynä AND-operaatiolla muihin ehtolauseisiin. Voit käyttää "
+"mitä tahansa käytössä olevan tietokannan tukemia lausekkeita."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:849
+msgid "Comparison Period Lag"
+msgstr "Vertailujakson viive"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:851
+msgid "Based on granularity, number of time periods to compare against"
+msgstr "Kuinka monta jaksoa verrataan, suhteessa aikarakeisuuteen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:856
+msgid "Comparison suffix"
+msgstr "Vertailun jälkiliite"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:857
+msgid "Suffix to apply after the percentage display"
+msgstr "Tämä lisätään prosenttinäytön perään"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:863
+msgid "Table Timestamp Format"
+msgstr "Taulun aikaleiman muoto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:868
+msgid "Timestamp Format"
+msgstr "Aikaleiman muoto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:874
+msgid "Series Height"
+msgstr "Sarjan korkeus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:877
+msgid "Pixel height of each series"
+msgstr "Kunkin sarjan korkeus pikseleinä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:883
+msgid "Page Length"
+msgstr "Sivun pituus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:886
+msgid "Rows per page, 0 means no pagination"
+msgstr "Rivejä per sivu, 0 kytkee sivutuksen pois"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:892
+#: superset/assets/javascripts/explore/stores/controls.jsx:902
+msgid "X Axis Format"
+msgstr "X-akselin muoto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:912
+msgid "Y Axis Format"
+msgstr "Y-akselin muoto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:922
+msgid "Right Axis Format"
+msgstr "Oikean akselin muoto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:931
+msgid "Date Time Format"
+msgstr "Päivämäärä ja ajan muoto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:940
+msgid "Markup Type"
+msgstr "Kuvauksen tyyppi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:945
+msgid "Pick your favorite markup language"
+msgstr "Valitse haluamasi kuvauskieli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:950
+msgid "Rotation"
+msgstr "Kierto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:953
+msgid "Rotation to apply to words in the cloud"
+msgstr "Sanapilven sanoihin lisätty kierto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:958
+msgid "Line Style"
+msgstr "Viivan tyyli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:963
+msgid "Line interpolation as defined by d3.js"
+msgstr "Viivan jaksotus, jonka määrittää d3.js"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:968
+msgid "Label Type"
+msgstr "Merkin tyyppi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:977
+msgid "What should be shown on the label?"
+msgstr "Mitä merkissä tulisi näyttää?"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:982
+#: superset/assets/javascripts/explore/stores/visTypes.js:403
+#: superset/assets/javascripts/explore/stores/visTypes.js:441
+msgid "Code"
+msgstr "Koodi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:983
+msgid "Put your code here"
+msgstr "Syötä koodisi tähän"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:992
+msgid "Aggregation function"
+msgstr "Koontifunktio"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1004
+msgid ""
+"Aggregate function to apply when pivoting and computing the total rows "
+"and columns"
+msgstr ""
+"Koontifunktio jota käytetään rivien ja sarakkeiden pivot- ja "
+"summausoperaatioissa"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1011
+msgid "Font Size From"
+msgstr "Kirjasinkoon määritys"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1013
+msgid "Font size for the smallest value in the list"
+msgstr "Fontin koko listan pienimmälle arvolle"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1019
+msgid "Font Size To"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1021
+msgid "Font size for the biggest value in the list"
+msgstr "Fontin koko listan suurimmalle arvolle"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1026
+msgid "Instant Filtering"
+msgstr "Välitön suodatus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1037
+msgid "Range Filter"
+msgstr "Rajasuodatin"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1040
+msgid "Whether to display the time range interactive selector"
+msgstr "Näytetäänkö aikarajasuodatin valintaelementissä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1045
+msgid "Date Filter"
+msgstr "Päivämääräsuodatin"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1047
+msgid "Whether to include a time filter"
+msgstr "Näytetäänkö aikasuodatin"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1052
+msgid "Show SQL Granularity Dropdown"
+msgstr "Näytä SQL-rakeisuuden valintalista"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1054
+msgid "Check to include SQL Granularity dropdown"
+msgstr "Valitse jos haluat näyttää SQL-rakeisuuden valintalistan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1059
+msgid "Show SQL Time Column"
+msgstr "Näytä SQL-aikasarake"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1061
+msgid "Check to include Time Column dropdown"
+msgstr "Valitse jos haluat näyttää SQL-aikasarakkeen valintalistan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1066
+msgid "Show Druid Granularity Dropdown"
+msgstr "Näytä Druid-rakeisuuden valintalista"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1068
+msgid "Check to include Druid Granularity dropdown"
+msgstr "Valitse jos haluat näyttää Druid-rakeisuuden valintalistan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1073
+msgid "Show Druid Time Origin"
+msgstr "Näytä Druid-aikalähde"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1075
+msgid "Check to include Time Origin dropdown"
+msgstr "Valitse jos haluat näyttää Druid-aikalähteen valintalistan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1080
+msgid "Data Table"
+msgstr "Tietotaulukko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1082
+msgid "Whether to display the interactive data table"
+msgstr "Näytetäänkö interaktiivinen tietotaulukko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1087
+msgid "Search Box"
+msgstr "Hakulaatikko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1090
+msgid "Whether to include a client side search box"
+msgstr "Näytetäänkö selainpohjainen hakulaatikko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1095
+msgid "Table Filter"
+msgstr "Taulusuodatin"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1097
+msgid "Whether to apply filter when table cell is clicked"
+msgstr "Suodatetaanko taulun solua klikkaamalla"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1102
+msgid "Show Bubbles"
+msgstr "Näytä kuplat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1105
+msgid "Whether to display bubbles on top of countries"
+msgstr "Näytetäänkö maiden päällä kuplat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1110
+msgid "Legend"
+msgstr "Kuvateksti"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1113
+msgid "Whether to display the legend (toggles)"
+msgstr "Näytetäänkö kuvateksti (päälle/pois)"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1118
+msgid "Show Values"
+msgstr "Näytä arvot"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1121
+msgid "Whether to display the numerical values within the cells"
+msgstr "Näytetäänkö soluissa numeeriset arvot"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1126
+msgid "X bounds"
+msgstr "X-rajat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1129
+msgid "Whether to display the min and max values of the X axis"
+msgstr "Näytetäänkö X-akselin minimi- ja maksimiarvot"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1134
+msgid "Y bounds"
+msgstr "Y-rajat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1137
+msgid "Whether to display the min and max values of the Y axis"
+msgstr "Näytetäänkö Y-akselin minimi- ja maksimiarvot"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1142
+msgid "Rich Tooltip"
+msgstr "Edistyneempi työkaluvinkki"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1145
+msgid "The rich tooltip shows a list of all series for that point in time"
+msgstr "Näytetäänkö työkaluvinkin yhteydessä kaikki sarja kyseiselle ajanhetkelle"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1151
+msgid "Y Log Scale"
+msgstr "Y-akseli logaritminen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1154
+msgid "Use a log scale for the Y axis"
+msgstr "Käytä logaritmista skaalausta Y-akselille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1159
+msgid "X Log Scale"
+msgstr "X-akseli logaritminen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1162
+msgid "Use a log scale for the X axis"
+msgstr "Käytä logaritmista skaalausta X-akselille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1167
+msgid "Log Scale"
+msgstr "Logaritminen skaalaus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1170
+msgid "Use a log scale"
+msgstr "Käytä logaritmista skaalausta"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1175
+msgid "Donut"
+msgstr "Donitsi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1178
+msgid "Do you want a donut or a pie?"
+msgstr "Haluatko donitsin vai piirakan?"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1183
+msgid "Put labels outside"
+msgstr "Sijoita merkinnät ulkopuolelle"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1186
+msgid "Put the labels outside the pie?"
+msgstr "Haluatko sijoittaa merkinnät piirakan ulkopuolelle?"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1191
+msgid "Contribution"
+msgstr "Osuudet"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1193
+msgid "Compute the contribution to the total"
+msgstr "Laske osuudet kokonaissummaan verrattuna"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1198
+msgid "Period Ratio"
+msgstr "Jakson suhde"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1201
+msgid ""
+"[integer] Number of period to compare against, this is relative to the "
+"granularity selected"
+msgstr ""
+"[kokonaisluku] Vertailujaksojen määrä suhteessa valittuun rakeisuuteen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1207
+msgid "Period Ratio Type"
+msgstr "Jakson suhteen tyyppi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1210
+msgid ""
+"`factor` means (new/previous), `growth` is ((new/previous) - 1), `value` "
+"is (new-previous)"
+msgstr ""
+"`factor` on (uusi/edellinen), `growth` on ((uusi/edellinen) - 1), `value` "
+"on (uusi-edellinen)"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1216
+msgid "Time Shift"
+msgstr "Ajansiirto"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1218
+msgid ""
+"Overlay a timeseries from a relative time period. Expects relative time "
+"delta in natural language (example:  24 hours, 7 days, 56 weeks, 365 "
+"days)"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1226
+msgid "Subheader"
+msgstr "Aliotsikko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1227
+msgid "Description text that shows up below your Big Number"
+msgstr "Kuvaus joka näkyy Ison Numeron alla"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1233
+msgid "label"
+msgstr "nimi"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1235
+msgid ""
+"`count` is COUNT(*) if a group by is used. Numerical columns will be "
+"aggregated with the aggregator. Non-numerical columns will be used to "
+"label points. Leave empty to get a count of points in each cluster."
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1246
+msgid "Map Style"
+msgstr "Kartan tyyli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1256
+msgid "Base layer map style"
+msgstr "Pohjakerroksen kartan tyyli"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1262
+msgid "Clustering Radius"
+msgstr "Ryhmittelyn säde"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1275
+msgid ""
+"The radius (in pixels) the algorithm uses to define a cluster. Choose 0 "
+"to turn off clustering, but beware that a large number of points (>1000) "
+"will cause lag."
+msgstr ""
+"Säde (pikseleitä) jota käytetään pisteiden ryhmittelyyn. Syötä 0"
+" jos et haluat ryhmittelyä. Ota huomioon että suuri datapisteiden "
+"määrä (>1000) aiheuttaa hitautta."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1282
+msgid "Point Radius"
+msgstr "Pisteen säde"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1284
+msgid ""
+"The radius of individual points (ones that are not in a cluster). Either "
+"a numerical column or `Auto`, which scales the point based on the largest"
+" cluster"
+msgstr ""
+"Yksittäisten (ryhmittelemättömien) pisteiden koko. "
+"Anna joko numeerinen sarake tai `Auto`, jolloin koko määräytyy suurimman "
+"ryhmittymän mukaan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1294
+msgid "Point Radius Unit"
+msgstr "Pisteen säteen yksikkö"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1297
+msgid "The unit of measure for the specified point radius"
+msgstr "Mittayksikkö jota käytetään pisteiden säteeseen"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1302
+msgid "Opacity"
+msgstr "Läpikuultavuus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1305
+msgid "Opacity of all clusters, points, and labels. Between 0 and 1."
+msgstr "Kaikkien pisteiden, ryhmien ja nimien läpikuultavuus. Välillä 0.0 ... 1.0."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1311
+msgid "Zoom"
+msgstr "Zoomaus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1314
+msgid "Zoom level of the map"
+msgstr "Kartan zoomaustaso"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1320
+msgid "Default latitude"
+msgstr "Oletusleveysaste"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1323
+msgid "Latitude of default viewport"
+msgstr "Oletusnäkymän leveysaste"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1329
+msgid "Default longitude"
+msgstr "Oletuspituusaste"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1332
+msgid "Longitude of default viewport"
+msgstr "Oletusnäkymän pituusaste"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1338
+msgid "Live render"
+msgstr "Reaaliaikainen näyttö"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1340
+msgid "Points and clusters will update as viewport is being changed"
+msgstr "Pisteet ja ryhmittymät päivittyvät samalla kun näkymää muutetaan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1346
+msgid "RGB Color"
+msgstr "RGB-väri"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1356
+msgid "The color for points and clusters in RGB"
+msgstr "RGB-väri pisteille ja ryhmille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1361
+msgid "Color"
+msgstr "Väri"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1362
+msgid "Pick a color"
+msgstr "Valitse väri"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1367
+msgid "Ranges"
+msgstr "Rajat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1369
+msgid "Ranges to highlight with shading"
+msgstr "Varjostuksella korostettavat rajat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1374
+msgid "Range labels"
+msgstr "Rajojen nimet"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1376
+msgid "Labels for the ranges"
+msgstr "Nimet rajoille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1381
+msgid "Markers"
+msgstr "Merkit"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1383
+msgid "List of values to mark with triangles"
+msgstr "Lista arvoista jotka tulee merkitä kolmioilla"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1388
+msgid "Marker labels"
+msgstr "Merkkien nimet"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1390
+msgid "Labels for the markers"
+msgstr "Nimet merkeille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1395
+msgid "Marker lines"
+msgstr "Merkkien viivat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1397
+msgid "List of values to mark with lines"
+msgstr "Lista arvoista jotka tulee merkitä viivalla"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1402
+msgid "Marker line labels"
+msgstr "Merkkilinjojen nimet"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1404
+msgid "Labels for the marker lines"
+msgstr "Nimet merkkilinjoille"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1431
+msgid "Slice ID"
+msgstr "Siivun ID"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1433
+msgid "The id of the active slice"
+msgstr "Aktiivisen siivun ID"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1438
+msgid "Cache Timeout (seconds)"
+msgstr "Välimuistin aikaraja (sekuntia)"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1440
+msgid "The number of seconds before expiring the cache"
+msgstr "Kuinka monta sekuntia välimuistia säilytetään"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1445
+msgid "Order by entity id"
+msgstr "Järjestä kokonaisuuksien ID:iden mukaan"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1446
+msgid ""
+"Important! Select this if the table is not already sorted by entity id, "
+"else there is no guarantee that all events for each entity are returned."
+msgstr ""
+"Tärkeää! Valitse tämä jos taulu ei ole valmiiksi järjestetty id-numeron "
+"mukaisesti. Muuten osa kunkin objektin tapahtumista saattaa jäädä pois "
+"tuloksista."
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1454
+msgid "Minimum leaf node event count"
+msgstr "Lehtisolmujen pienin tapahtumamäärä"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1457
+msgid ""
+"Leaf nodes that represent fewer than this number of events will be "
+"initially hidden in the visualization"
+msgstr ""
+"Lehtisolmut joilla on tätä pienempi määrä tapahtumia ovat alustavasti "
+"piilotettuja"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1463
+#: superset/assets/javascripts/explore/stores/visTypes.js:25
+msgid "Color Scheme"
+msgstr "Väriskeema"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1467
+msgid "The color scheme for rendering chart"
+msgstr "Kaaviossa näytettävä väriskeema"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1473
+msgid "Significance Level"
+msgstr "Merkittävyystaso"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1475
+msgid "Threshold alpha level for determining significance"
+msgstr "Alpha-kynnystaso merkittävyyden päättelyyn"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1480
+msgid "p-value precision"
+msgstr "p-arvon tarkkuus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1482
+msgid "Number of decimal places with which to display p-values"
+msgstr "Kuinka monella desimaalilla p-arvo esitetään"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1487
+msgid "Lift percent precision"
+msgstr "Nostoprosentin tarkkuus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1489
+msgid "Number of decimal places with which to display lift values"
+msgstr "Kuinka monella desimaalilla nostoarvot esitetään"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1494
+msgid "Time Series Columns"
+msgstr "Aikasarjan sarakkeet"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1501
+#: superset/assets/javascripts/explore/stores/visTypes.js:356
+#: superset/assets/javascripts/explore/stores/visTypes.js:470
+#: superset/assets/javascripts/explore/stores/visTypes.js:519
+#: superset/assets/javascripts/explore/stores/visTypes.js:782
+#: superset/assets/javascripts/explore/stores/visTypes.js:846
+#: superset/assets/javascripts/explore/stores/visTypes.js:936
+#: superset/assets/javascripts/explore/stores/visTypes.js:958
+msgid "Options"
+msgstr "Valinnat"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1507
+msgid "Not Time Series"
+msgstr "Ei aikasarja"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1509
+msgid "Ignore time"
+msgstr "Sivuuta aika"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1512
+msgid "Time Series"
+msgstr "Aikasarja"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1514
+msgid "Standard time series"
+msgstr "Vakio aikasarja"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1517
+msgid "Aggregate Mean"
+msgstr "Keskivertokoonti"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1519
+msgid "Mean of values over specified period"
+msgstr "Keskivertoarvo määrätyn jakson aikana"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1522
+msgid "Aggregate Sum"
+msgstr "Summakoonti"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1524
+msgid "Sum of values over specified period"
+msgstr "Summaa arvot määrätyn jakson ajalta"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1527
+msgid "Difference"
+msgstr "Erotus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1529
+msgid "Metric change in value from `since` to `until`"
+msgstr "Metriikan arvon muutos välillä `Alkaen` - `Asti`"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1532
+msgid "Percent Change"
+msgstr "Prosenttimuutos"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1534
+msgid "Metric percent change in value from `since` to `until`"
+msgstr "Metriikan arvon muutosprosentti välillä `Alkaen` - `Asti`"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1537
+msgid "Factor"
+msgstr "Kerroin"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1539
+msgid "Metric factor change from `since` to `until`"
+msgstr "Kerroin välillä `Alkaen` - `Asti`"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1542
+#: superset/assets/javascripts/explore/stores/visTypes.js:66
+msgid "Advanced Analytics"
+msgstr "Edistynyt analytiikka"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1544
+msgid "Use the Advanced Analytics options below"
+msgstr "Käytä alla olevia edistyneen analytiikan valintoja"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1549
+msgid "Settings for time series"
+msgstr "Aikasarjan asetukset"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1554
+msgid "Equal Date Sizes"
+msgstr "Täsmäävien päivien koko"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1557
+msgid "Check to force date partitions to have the same height"
+msgstr "Valitse jos haluat että päiväosioilla on sama korkeus"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1562
+msgid "Partition Limit"
+msgstr "Rajoita osioita"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1566
+msgid ""
+"The maximum number of subdivisions of each group; lower values are pruned"
+" first"
+msgstr "Maksimimäärä osia kullekin ryhmälle; pienimmät arvot karsitaan ensin"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1572
+msgid "Partition Threshold"
+msgstr "Osiointikynnys"
+
+#: superset/assets/javascripts/explore/stores/controls.jsx:1576
+msgid ""
+"Partitions whose height to parent height proportions are below this value"
+" are pruned"
+msgstr ""
+"Karsi osiot joiden korkeus suhteessa ylempään tasoon on pienempi "
+"kuin tämä arvo"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:7
+#: superset/assets/javascripts/explore/stores/visTypes.js:31
+msgid "Time"
+msgstr "Aika"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:9
+#: superset/assets/javascripts/explore/stores/visTypes.js:32
+msgid "Time related form attributes"
+msgstr "Aikaan liittyvät valinnat"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:16
+msgid "Datasource & Chart Type"
+msgstr "Tietolähde & Kaavion tyyppi"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:45
+msgid "This section exposes ways to include snippets of SQL in your query"
+msgstr "Tässä osiossa voit liittää SQL-lauseita kyselyysi"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:48
+#: superset/views/annotations.py:55
+msgid "Annotations"
+msgstr "Huomautukset"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:67
+msgid ""
+"This section contains options that allow for advanced analytical post "
+"processing of query results"
+msgstr ""
+"Tämä osio sisältää valintoja joilla voit suorittaa kehittyneempää "
+"analyyttistä jälkikäsittelyä kyselyn tuloksille"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:85
+msgid "Result Filters"
+msgstr "Tulosten suodatus"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:87
+msgid ""
+"The filters to apply after post-aggregation.Leave the value control empty"
+" to filter empty strings or nulls"
+msgstr ""
+"Suodattimet joita käytetään koonnin jälkeen. Jätä arvo tyhjäksi jos "
+"haluat suodattaa tyhjiä merkkijonoja tai NULL-arvoja"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:110
+#: superset/assets/javascripts/explore/stores/visTypes.js:146
+#: superset/assets/javascripts/explore/stores/visTypes.js:164
+#: superset/assets/javascripts/explore/stores/visTypes.js:203
+#: superset/assets/javascripts/explore/stores/visTypes.js:245
+#: superset/assets/javascripts/explore/stores/visTypes.js:280
+#: superset/assets/javascripts/explore/stores/visTypes.js:303
+#: superset/assets/javascripts/explore/stores/visTypes.js:492
+#: superset/assets/javascripts/explore/stores/visTypes.js:540
+#: superset/assets/javascripts/explore/stores/visTypes.js:561
+#: superset/assets/javascripts/explore/stores/visTypes.js:612
+#: superset/assets/javascripts/explore/stores/visTypes.js:634
+#: superset/assets/javascripts/explore/stores/visTypes.js:659
+#: superset/assets/javascripts/explore/stores/visTypes.js:685
+#: superset/assets/javascripts/explore/stores/visTypes.js:718
+#: superset/assets/javascripts/explore/stores/visTypes.js:755
+#: superset/assets/javascripts/explore/stores/visTypes.js:808
+#: superset/assets/javascripts/explore/stores/visTypes.js:1018
+#: superset/assets/javascripts/explore/stores/visTypes.js:1173
+msgid "Chart Options"
+msgstr "Kaavion asetukset"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:127
+msgid "Breakdowns"
+msgstr "Erittelyt"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:128
+msgid "Defines how each series is broken down"
+msgstr "Määrittää miten kukin sarja eritellään"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:134
+msgid "Pie Chart"
+msgstr "Piirakkakaavio"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:199
+msgid "Dual Axis Line Chart"
+msgstr "Kaksoisakselinen viivakaavio"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:210
+msgid "Y Axis 1"
+msgstr "Y-akseli 1"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:216
+msgid "Y Axis 2"
+msgstr "Y-akseli 2"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:225
+msgid "Left Axis Metric"
+msgstr "Vasemman akselin metriikka"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:226
+msgid "Choose a metric for left axis"
+msgstr "Valitse metriikka vasemmanpuoleiselle akselille"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:229
+msgid "Left Axis Format"
+msgstr "Vasemman akselin muoto"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:255
+#: superset/assets/javascripts/explore/stores/visTypes.js:313
+msgid "Axes"
+msgstr "Akselit"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:338
+msgid "GROUP BY"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:339
+msgid "Use this section if you want a query that aggregates"
+msgstr "Käytä tätä osaa jos haluat koontikyselyn"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:348
+msgid "NOT GROUPED BY"
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:349
+msgid "Use this section if you want to query atomic rows"
+msgstr "Käytä tätä osiota jos haluat suorittaa kyselyn atomisesti"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:375
+msgid "Time Series Table"
+msgstr "Aikasarjataulu"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:392
+msgid ""
+"Templated link, it's possible to include {{ metric }} or other values "
+"coming from the controls."
+msgstr ""
+"Linkkipohja, voit käyttää {{ metric }} tai muita muuttujia joita "
+"määritetään valintojen avulla."
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:424
+msgid "Pivot Options"
+msgstr "Pivot-asetukset"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:568
+#: superset/assets/javascripts/explore/stores/visTypes.js:880
+msgid "Bubbles"
+msgstr "Kuplat"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:694
+msgid "Numeric Column"
+msgstr "Numeerinen sarake"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:695
+msgid "Select the numeric column to draw the histogram"
+msgstr "Valitse histogrammiin käytettävä numeerinen sarake"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:698
+msgid "No of Bins"
+msgstr "Astioiden lukumäärä"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:699
+msgid "Select number of bins for the histogram"
+msgstr "Valitse haluttu määrä astioita histogrammille"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:726
+msgid "Primary Metric"
+msgstr "Ensisijainen metriikka"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:727
+msgid "The primary metric is used to define the arc segment sizes"
+msgstr "Ensisijainen metriikka joka määrittää kaaren segmentin koon"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:730
+msgid "Secondary Metric"
+msgstr "Toissijainen metriikka"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:731
+msgid ""
+"This secondary metric is used to define the color as a ratio against the "
+"primary metric. If the two metrics match, color is mapped level groups"
+msgstr ""
+"Toissijainen metriikka määrittää värin suhteessa ensisijaiseen "
+"metriikkaan. Jos kummatkin metriikat täsmäävät, väri määräytyy "
+"tasoryhmittäin"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:736
+msgid "Hierarchy"
+msgstr "Hierarkia"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:737
+msgid "This defines the level of the hierarchy"
+msgstr "Tämä määrittää hierarkiatasot"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:763
+#: superset/assets/javascripts/explore/stores/visTypes.js:791
+msgid "Source / Target"
+msgstr "Lähde / Kohde"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:764
+#: superset/assets/javascripts/explore/stores/visTypes.js:792
+msgid "Choose a source and a target"
+msgstr "Valitse lähde ja kohde"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:797
+msgid "Chord Diagram"
+msgstr "Jännediagrammi"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:818
+msgid "Choose a number format"
+msgstr "Valitse numeromuoto"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:821
+msgid "Source"
+msgstr "Lähde"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:824
+msgid "Choose a source"
+msgstr "Valitse lähde"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:827
+msgid "Target"
+msgstr "Kohde"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:830
+msgid "Choose a target"
+msgstr "Valitse kohde"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:855
+msgid "ISO 3166-2 codes of region/province/department"
+msgstr "Alueen/läänin/hallintoalueen ISO 3166-2 -koodit"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:856
+msgid ""
+"It's ISO 3166-2 of your region/province/department in your table. (see "
+"documentation for list of ISO 3166-2)"
+msgstr ""
+"Taulussasi oleva ISO 3166-2 -koodi. Lista koodeista on luettavissa "
+"dokumentaatiossa."
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:890
+msgid "Country Control"
+msgstr "Maa-hallinta"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:891
+msgid "3 letter code of the country"
+msgstr "Maan 3-kirjaiminen koodi"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:894
+msgid "Metric for color"
+msgstr "Metriikka värille"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:895
+msgid "Metric that defines the color of the country"
+msgstr "Maan värityksen määräävä metriikka"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:898
+msgid "Bubble size"
+msgstr "Kuplan koko"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:899
+msgid "Metric that defines the size of the bubble"
+msgstr "Kuplan koon määrittävä metriikka"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:905
+msgid "Filter Box"
+msgstr "Suodatinlaatikko"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:921
+msgid "Filter controls"
+msgstr "Suodatinvalinnat"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:922
+msgid ""
+"The controls you want to filter on. Note that only columns checked as "
+"\"filterable\" will show up on this list."
+msgstr ""
+"Valinnat joita haluat käyttää suodatukseen. Vain suodatettavaksi "
+"(\"filterable\") merkityt sarakkeet ovat käytettävissä."
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:978
+msgid "Heatmap Options"
+msgstr "Lämpökartan valinnat"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:999
+msgid "Value bounds"
+msgstr "Raja-arvot"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1008
+msgid "Value Format"
+msgstr "Arvon muoto"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1014
+msgid "Horizon"
+msgstr "Horisontti"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1040
+msgid "Points"
+msgstr "Pisteet"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1047
+msgid "Labelling"
+msgstr "Nimeäminen"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1054
+msgid "Visual Tweaks"
+msgstr "Visuaaliset säädöt"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1063
+msgid "Viewport"
+msgstr "Näkymä"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1073
+msgid "Longitude"
+msgstr "Pituusaste"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1074
+msgid "Column containing longitude data"
+msgstr "Sarake joka sisältää pituusasteen"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1077
+msgid "Latitude"
+msgstr "Leveysaste"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1078
+msgid "Column containing latitude data"
+msgstr "Sarake joka sisältää leveysasteen"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1081
+msgid "Cluster label aggregator"
+msgstr "Ryhmänimien koontitoiminto"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1082
+msgid ""
+"Aggregate function applied to the list of points in each cluster to "
+"produce the cluster label."
+msgstr ""
+"Koontifunktio jota käytetään ryhmänimen sen sisältämien pisteiden "
+"perusteella."
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1086
+msgid "Tooltip"
+msgstr "Työkaluvinkki"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1087
+msgid "Show a tooltip when hovering over points and clusters describing the label"
+msgstr "Näytä työkaluvinkkit kun hiiri viedään pisteiden ja ryhmien päälle"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1091
+msgid ""
+"One or many controls to group by. If grouping, latitude and longitude "
+"columns must be present."
+msgstr ""
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1102
+msgid "Event definition"
+msgstr "Tapahtuman määrittely"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1112
+msgid "Additional meta data"
+msgstr "Ylimääräinen metatieto"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1120
+msgid "Column containing entity ids"
+msgstr "Sarake joka sisältää kokonaisuuksien ID:t"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1121
+msgid "e.g., a \"user id\" column"
+msgstr "esim. käyttäjän tunnistenumero-sarake"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1124
+msgid "Column containing event names"
+msgstr "Tapahtumanimet sisältävä sarake"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1132
+msgid "Event count limit"
+msgstr "Rajoita tapahtumien määrää"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1133
+msgid "The maximum number of events to return, equivalent to number of rows"
+msgstr ""
+"Suurin mahdollinen määrä palautettavia tapahtumia, yhtä kuin "
+"rivimäärä"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1136
+msgid "Meta data"
+msgstr "Metatieto"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1137
+msgid "Select any columns for meta data inspection"
+msgstr "Valitse mikä tahansa sarake metatiedon tarkasteluun"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1149
+msgid "Paired t-test"
+msgstr "Paritettu t-testi"
+
+#: superset/assets/javascripts/explore/stores/visTypes.js:1166
+msgid "Time Series Options"
+msgstr "Aikajakson valinnat"
+
+#: superset/assets/javascripts/modules/superset.js:132
+msgid ""
+"The server could not be reached. You may want to verify your connection "
+"and try again."
+msgstr ""
+"Palvelimeen ei saatu yhteyttä. Tarkista yhteytesi toiminta ja yritä "
+"uudelleen."
+
+#: superset/assets/javascripts/modules/superset.js:135
+#, python-format
+msgid "An unknown error occurred. (Status: %s )"
+msgstr "Tapahtui tuntematon virhe. (Tila: %s )"
+
+#: superset/assets/javascripts/profile/components/App.jsx:24
+msgid "Favorites"
+msgstr "Suosikit"
+
+#: superset/assets/javascripts/profile/components/App.jsx:30
+msgid "Created Content"
+msgstr "Luotu sisältö"
+
+#: superset/assets/javascripts/profile/components/App.jsx:37
+msgid "Recent Activity"
+msgstr "Viimeisimmät toiminnot"
+
+#: superset/assets/javascripts/profile/components/App.jsx:42
+msgid "Security & Access"
+msgstr "Turvallisuus ja pääsynhallinta"
+
+#: superset/assets/javascripts/profile/components/CreatedContent.jsx:33
+msgid "No slices"
+msgstr "Ei siivuja"
+
+#: superset/assets/javascripts/profile/components/CreatedContent.jsx:49
+msgid "No dashboards"
+msgstr "Ei infotauluja"
+
+#: superset/assets/javascripts/profile/components/CreatedContent.jsx:58
+#: superset/assets/javascripts/profile/components/Favorites.jsx:59
+#: superset/templates/superset/welcome.html:13 superset/views/core.py:381
+#: superset/views/core.py:546
+msgid "Dashboards"
+msgstr "Infotaulut"
+
+#: superset/assets/javascripts/profile/components/CreatedContent.jsx:61
+#: superset/assets/javascripts/profile/components/Favorites.jsx:62
+#: superset/views/core.py:421 superset/views/core.py:491
+msgid "Slices"
+msgstr ""
+
+#: superset/assets/javascripts/profile/components/Favorites.jsx:34
+msgid "No favorite slices yet, go click on stars!"
+msgstr "Ei siivuja suosikeissa, menehän klikkailemaan tähtiä!"
+
+#: superset/assets/javascripts/profile/components/Favorites.jsx:50
+msgid "No favorite dashboards yet, go click on stars!"
+msgstr "Ei infotauluja suosikeissa, menehän klikkailemaan tähtiä!"
+
+#: superset/assets/javascripts/profile/components/Security.jsx:14
+msgid "Roles"
+msgstr "Roolit"
+
+#: superset/assets/javascripts/profile/components/Security.jsx:23
+#: superset/views/core.py:292
+msgid "Databases"
+msgstr "Tietokannat"
+
+#: superset/assets/javascripts/profile/components/Security.jsx:34
+msgid "Datasources"
+msgstr "Tietolähteet"
+
+#: superset/assets/javascripts/profile/components/UserInfo.jsx:18
+msgid "Profile picture provided by Gravatar"
+msgstr "Profiilikuvan tarjoaa Gravatar"
+
+#: superset/assets/javascripts/profile/components/UserInfo.jsx:33
+msgid "joined"
+msgstr "liittynyt"
+
+#: superset/assets/javascripts/profile/components/UserInfo.jsx:43
+msgid "id:"
+msgstr ""
+
+#: superset/assets/visualizations/EventFlow.jsx:56
+msgid "Sorry, there appears to be no data"
+msgstr "Pahoittelut, näyttää siltä että yhtään tietoa ei ole olemassa"
+
+#: superset/assets/visualizations/filter_box.jsx:181
+#, python-format
+msgid "Select [%s]"
+msgstr "Valitse [%s]"
+
+#: superset/connectors/druid/models.py:1073
+msgid "No data was returned."
+msgstr "Tietoa ei palautunut"
+
+#: superset/connectors/druid/views.py:26
+msgid "List Druid Column"
+msgstr "Listaa Druid-sarakkeet"
+
+#: superset/connectors/druid/views.py:27
+msgid "Show Druid Column"
+msgstr "Näytä Druid-sarake"
+
+#: superset/connectors/druid/views.py:28
+msgid "Add Druid Column"
+msgstr "Lisää Druid-sarake"
+
+#: superset/connectors/druid/views.py:29
+msgid "Edit Druid Column"
+msgstr "Muokkaa Druid-saraketta"
+
+#: superset/connectors/druid/views.py:41 superset/connectors/sqla/views.py:79
+msgid "Column"
+msgstr "Sarake"
+
+#: superset/connectors/druid/views.py:42 superset/connectors/druid/views.py:107
+#: superset/connectors/sqla/views.py:93 superset/connectors/sqla/views.py:132
+msgid "Type"
+msgstr "Tyyppi"
+
+#: superset/connectors/druid/views.py:44 superset/connectors/sqla/views.py:82
+msgid "Groupable"
+msgstr "Ryhmiteltävä"
+
+#: superset/connectors/druid/views.py:45 superset/connectors/sqla/views.py:83
+msgid "Filterable"
+msgstr "Suodatettava"
+
+#: superset/connectors/druid/views.py:46 superset/connectors/sqla/views.py:85
+msgid "Count Distinct"
+msgstr "Erillisarvojen lukumäärä"
+
+#: superset/connectors/druid/views.py:47 superset/connectors/sqla/views.py:86
+msgid "Sum"
+msgstr "Summa"
+
+#: superset/connectors/druid/views.py:52 superset/connectors/sqla/views.py:48
+msgid ""
+"Whether this column is exposed in the `Filters` section of the explore "
+"view."
+msgstr ""
+"Näytetäänkö tämä sarake tarkastelunäkymän `Suodattimet` -osiossa"
+
+#: superset/connectors/druid/views.py:78
+msgid "List Druid Metric"
+msgstr "Listaa Druid-metriikat"
+
+#: superset/connectors/druid/views.py:79
+msgid "Show Druid Metric"
+msgstr "Näytä Druid-metriikka"
+
+#: superset/connectors/druid/views.py:80
+msgid "Add Druid Metric"
+msgstr "Lisää Druid-metriikka"
+
+#: superset/connectors/druid/views.py:81
+msgid "Edit Druid Metric"
+msgstr "Muokkaa Druid-metriikkaa"
+
+#: superset/connectors/druid/views.py:98 superset/connectors/sqla/views.py:114
+msgid ""
+"Whether the access to this metric is restricted to certain roles. Only "
+"roles with the permission 'metric access on XXX (the name of this "
+"metric)' are allowed to access this metric"
+msgstr ""
+"Rajataanko tähän metriikkaan pääsy tietyille rooleille. Vain roolit "
+"joilla on oikeus 'metric access on XXX' (jossa tämän metriikan nimi) "
+"voivat käyttää tätä metriikkaa"
+
+#: superset/connectors/druid/views.py:106 superset/connectors/sqla/views.py:80
+#: superset/connectors/sqla/views.py:131
+msgid "Verbose Name"
+msgstr "Selkokielinen nimi"
+
+#: superset/connectors/druid/views.py:108 superset/views/core.py:573
+msgid "JSON"
+msgstr ""
+
+#: superset/connectors/druid/views.py:109
+msgid "Druid Datasource"
+msgstr "Druid-tietolähde"
+
+#: superset/connectors/druid/views.py:110 superset/connectors/sqla/views.py:137
+msgid "Warning Message"
+msgstr "Varoitusviesti"
+
+#: superset/connectors/druid/views.py:127
+msgid "List Druid Cluster"
+msgstr "Listaa Druid-klusterit"
+
+#: superset/connectors/druid/views.py:128
+msgid "Show Druid Cluster"
+msgstr "Näytä Druid-klusteri"
+
+#: superset/connectors/druid/views.py:129
+msgid "Add Druid Cluster"
+msgstr "Lisää Druid-klusteri"
+
+#: superset/connectors/druid/views.py:130
+msgid "Edit Druid Cluster"
+msgstr "Muokkaa Druid-klusteria"
+
+#: superset/connectors/druid/views.py:141
+#: superset/connectors/druid/views.py:226
+msgid "Cluster"
+msgstr "Klusteri"
+
+#: superset/connectors/druid/views.py:142
+msgid "Coordinator Host"
+msgstr "Coordinator-palvelin"
+
+#: superset/connectors/druid/views.py:143
+msgid "Coordinator Port"
+msgstr "Coordinator-portti"
+
+#: superset/connectors/druid/views.py:144
+msgid "Coordinator Endpoint"
+msgstr "Coordinator-päätepiste"
+
+#: superset/connectors/druid/views.py:145
+msgid "Broker Host"
+msgstr "Broker-palvelin"
+
+#: superset/connectors/druid/views.py:146
+msgid "Broker Port"
+msgstr "Broker-portti"
+
+#: superset/connectors/druid/views.py:147
+msgid "Broker Endpoint"
+msgstr "Broker-päätepiste"
+
+#: superset/connectors/druid/views.py:162
+msgid "Druid Clusters"
+msgstr "Druid-klusterit"
+
+#: superset/connectors/druid/views.py:165
+#: superset/connectors/druid/views.py:266
+#: superset/connectors/druid/views.py:314
+#: superset/connectors/druid/views.py:322 superset/connectors/sqla/views.py:295
+#: superset/views/core.py:295
+msgid "Sources"
+msgstr "Lähteet"
+
+#: superset/connectors/druid/views.py:172
+msgid "List Druid Datasource"
+msgstr "Listaa Druid-tietolähteet"
+
+#: superset/connectors/druid/views.py:173
+msgid "Show Druid Datasource"
+msgstr "Näytä Druid-tietolähde"
+
+#: superset/connectors/druid/views.py:174
+msgid "Add Druid Datasource"
+msgstr "Lisää Druid-tietolähde"
+
+#: superset/connectors/druid/views.py:175
+msgid "Edit Druid Datasource"
+msgstr "Muokkaa Druid-tietolähdettä"
+
+#: superset/connectors/druid/views.py:195 superset/connectors/sqla/views.py:176
+msgid ""
+"The list of slices associated with this table. By altering this "
+"datasource, you may change how these associated slices behave. Also note "
+"that slices need to point to a datasource, so this form will fail at "
+"saving if removing slices from a datasource. If you want to change the "
+"datasource for a slice, overwrite the slice from the 'explore view'"
+msgstr ""
+"Lista siivuista jotka ovat liitettynä tähän tauluun. Tätä lähdettä "
+"muokkaamalla voit muuttaa liittyvien siivujen toimintaa. Huomaa, "
+"että kunkin siivun täytyy liittyä johonkin datalähteeseen, joten "
+"tämän lomakkeen tallennus ei onnistu jos poistat siivun linkityksen "
+"datalähteeseen. Jos haluat vaihtaa siivun datalähdettä, ylikirjoita "
+"siivu 'tarkastelunäkymästä'"
+
+#: superset/connectors/druid/views.py:203 superset/connectors/sqla/views.py:184
+msgid "Timezone offset (in hours) for this datasource"
+msgstr "Aikavyöhykkeen erotus (tunteina) tälle tietolähteelle"
+
+#: superset/connectors/druid/views.py:207
+msgid ""
+"Time expression to use as a predicate when retrieving distinct values to "
+"populate the filter component. Only applies when `Enable Filter Select` "
+"is on. If you enter `7 days ago`, the distinct list of values in the "
+"filter will be populated based on the distinct value over the past week"
+msgstr ""
+
+#: superset/connectors/druid/views.py:214 superset/connectors/sqla/views.py:206
+msgid ""
+"Whether to populate the filter's dropdown in the explore view's filter "
+"section with a list of distinct values fetched from the backend on the "
+"fly"
+msgstr ""
+
+#: superset/connectors/druid/views.py:218
+msgid ""
+"Redirects to this endpoint when clicking on the datasource from the "
+"datasource list"
+msgstr ""
+
+#: superset/connectors/druid/views.py:224 superset/connectors/sqla/views.py:213
+msgid "Associated Slices"
+msgstr "Tähän liittyvät siivut"
+
+#: superset/connectors/druid/views.py:225
+msgid "Data Source"
+msgstr "Tietolähde"
+
+#: superset/connectors/druid/views.py:228 superset/connectors/sqla/views.py:225
+msgid "Owner"
+msgstr "Omistaja"
+
+#: superset/connectors/druid/views.py:229
+msgid "Is Hidden"
+msgstr "On piilotettu"
+
+#: superset/connectors/druid/views.py:230 superset/connectors/sqla/views.py:218
+msgid "Enable Filter Select"
+msgstr "Mahdollista suodattimen valinta"
+
+#: superset/connectors/druid/views.py:231 superset/connectors/sqla/views.py:220
+msgid "Default Endpoint"
+msgstr "Oletuspäätepiste"
+
+#: superset/connectors/druid/views.py:232
+msgid "Time Offset"
+msgstr "Aikaerotus"
+
+#: superset/connectors/druid/views.py:233 superset/connectors/sqla/views.py:222
+#: superset/views/core.py:259 superset/views/core.py:379
+msgid "Cache Timeout"
+msgstr "Välimuistin aikaraja"
+
+#: superset/connectors/druid/views.py:264
+msgid "Druid Datasources"
+msgstr "Druid-datalähteet"
+
+#: superset/connectors/druid/views.py:311
+msgid "Scan New Datasources"
+msgstr "Skannaa uusia datalähteitä"
+
+#: superset/connectors/druid/views.py:319
+msgid "Refresh Druid Metadata"
+msgstr "Päivitä Druid-metatiedot"
+
+#: superset/connectors/sqla/models.py:394
+msgid ""
+"Datetime column not provided as part table configuration and is required "
+"by this type of chart"
+msgstr ""
+"Taulussa ei ole aikasaraketta (Datetime) mutta se vaaditaan tämän "
+"tyyppisessä kaaviossa""
+
+#: superset/connectors/sqla/models.py:398
+msgid "Empty query?"
+msgstr "Tyhjä kysely?"
+
+#: superset/connectors/sqla/models.py:401
+msgid "Metric '{}' is not valid"
+msgstr "Metriikka '{}' ei ole kelvollinen"
+
+#: superset/connectors/sqla/models.py:587
+msgid ""
+"Table [{}] doesn't seem to exist in the specified database, couldn't "
+"fetch column information"
+msgstr ""
+"Taulua [{}] ei näytä olevan olemassa kyseisessä tietokannassa, ei voitu "
+"hakea saraketietoja"
+
+#: superset/connectors/sqla/views.py:26
+msgid "List Columns"
+msgstr "Listaa sarakkeet"
+
+#: superset/connectors/sqla/views.py:27
+msgid "Show Column"
+msgstr "Näytä sarake"
+
+#: superset/connectors/sqla/views.py:28
+msgid "Add Column"
+msgstr "Lisää sarake"
+
+#: superset/connectors/sqla/views.py:29
+msgid "Edit Column"
+msgstr "Muokkaa saraketta"
+
+#: superset/connectors/sqla/views.py:44
+msgid ""
+"Whether to make this column available as a [Time Granularity] option, "
+"column has to be DATETIME or DATETIME-like"
+msgstr ""
+"Onko tämä sarake saatavilla [Aikarakeisuus] -valintana. Sarakkeen "
+"tyyppi täytyy olla DATETIME tai sitä vastaava"
+
+#: superset/connectors/sqla/views.py:51
+msgid ""
+"The data type that was inferred by the database. It may be necessary to "
+"input a type manually for expression-defined columns in some cases. In "
+"most case users should not need to alter this."
+msgstr ""
+"Tietokannan ilmoittama sarakkeen tyyppi. Tyypin voi joissakin tapauksissa "
+"joutua syöttämään manuaalisesti jos kyseessä on lausekkeen määrittämä "
+"sarake. Tätä ei yleensä tarvitse määrittää itse."
+
+#: superset/connectors/sqla/views.py:89
+msgid "Expression"
+msgstr "Lauseke"
+
+#: superset/connectors/sqla/views.py:90
+msgid "Is temporal"
+msgstr "Aikasarake"
+
+#: superset/connectors/sqla/views.py:91
+msgid "Datetime Format"
+msgstr "Päivämäärän ja ajan muoto"
+
+#: superset/connectors/sqla/views.py:92
+msgid "Database Expression"
+msgstr "Tietokannan lauseke"
+
+#: superset/connectors/sqla/views.py:101
+msgid "List Metrics"
+msgstr "Listaa metriikat"
+
+#: superset/connectors/sqla/views.py:102
+msgid "Show Metric"
+msgstr "Näytä metriikka"
+
+#: superset/connectors/sqla/views.py:103
+msgid "Add Metric"
+msgstr "Lisää metriikka"
+
+#: superset/connectors/sqla/views.py:104
+msgid "Edit Metric"
+msgstr "Muokkaa metriikkaa"
+
+#: superset/connectors/sqla/views.py:133
+msgid "SQL Expression"
+msgstr "SQL-lauseke"
+
+#: superset/connectors/sqla/views.py:135
+msgid "D3 Format"
+msgstr "D3-muoto"
+
+#: superset/connectors/sqla/views.py:136
+msgid "Is Restricted"
+msgstr "On rajoitettu"
+
+#: superset/connectors/sqla/views.py:154
+msgid "List Tables"
+msgstr "Listaa taulut"
+
+#: superset/connectors/sqla/views.py:155
+msgid "Show Table"
+msgstr "Näytä taulu"
+
+#: superset/connectors/sqla/views.py:156
+msgid "Add Table"
+msgstr "Lisää taulu"
+
+#: superset/connectors/sqla/views.py:157
+msgid "Edit Table"
+msgstr "Muokkaa taulua"
+
+#: superset/connectors/sqla/views.py:185
+msgid "Name of the table that exists in the source database"
+msgstr "Lähdetietokannassa sijaitsevan taulun nimi"
+
+#: superset/connectors/sqla/views.py:187
+msgid "Schema, as used only in some databases like Postgres, Redshift and DB2"
+msgstr "Schema, jota käytetään vain tietyissä tietokannoissa kuten PostgreSQL, Redshift ja DB2"
+
+#: superset/connectors/sqla/views.py:193
+msgid ""
+"This fields acts a Superset view, meaning that Superset will run a query "
+"against this string as a subquery."
+msgstr ""
+
+#: superset/connectors/sqla/views.py:197
+msgid ""
+"Predicate applied when fetching distinct value to populate the filter "
+"control component. Supports jinja template syntax. Applies only when "
+"`Enable Filter Select` is on."
+msgstr ""
+
+#: superset/connectors/sqla/views.py:203
+msgid "Redirects to this endpoint when clicking on the table from the table list"
+msgstr ""
+
+#: superset/connectors/sqla/views.py:215
+msgid "Changed By"
+msgstr "Muokannut"
+
+#: superset/connectors/sqla/views.py:216 superset/views/core.py:255
+#: superset/views/sql_lab.py:19 superset/views/sql_lab.py:55
+msgid "Database"
+msgstr "Tietokanta"
+
+#: superset/connectors/sqla/views.py:217 superset/views/core.py:257
+msgid "Last Changed"
+msgstr "Viimeksi muokattu"
+
+#: superset/connectors/sqla/views.py:219
+msgid "Schema"
+msgstr ""
+
+#: superset/connectors/sqla/views.py:221
+msgid "Offset"
+msgstr "Erotus"
+
+#: superset/connectors/sqla/views.py:223
+msgid "Table Name"
+msgstr "Taulun nimi"
+
+#: superset/connectors/sqla/views.py:224
+msgid "Fetch Values Predicate"
+msgstr ""
+
+#: superset/connectors/sqla/views.py:226
+msgid "Main Datetime Column"
+msgstr "Ensisijainen aikasarake"
+
+#: superset/connectors/sqla/views.py:242
+msgid ""
+"Table [{}] could not be found, please double check your database "
+"connection, schema, and table name"
+msgstr ""
+"Taulua [{}] ei löytynyt, ole hyvä ja tarkista yhteytesi, schema "
+"sekä taulun nimi"
+
+#: superset/connectors/sqla/views.py:255
+msgid ""
+"The table was created. As part of this two phase configuration process, "
+"you should now click the edit button by the new table to configure it."
+msgstr ""
+"Uusi taulu luotiin. Määritysprosessi on kaksivaiheinen, joten "
+"seuraavaksi sinun täytyy klikata muokkausnappia ja päivittää "
+"taulun ominaisuudet."
+
+#: superset/connectors/sqla/views.py:278
+msgid "Refresh Metadata"
+msgstr "Päivitä metatiedot"
+
+#: superset/connectors/sqla/views.py:279
+msgid "Refresh column metadata"
+msgstr "Päivitä sarakkeen metatiedot"
+
+#: superset/connectors/sqla/views.py:286
+#, python-format
+msgid "Metadata refreshed for the following table(s): %(tables)s"
+msgstr "Metatiedot päivitettiin seuraaville tauluille: %(tables)s"
+
+#: superset/connectors/sqla/views.py:293
+msgid "Tables"
+msgstr "Taulut"
+
+#: superset/templates/appbuilder/navbar_right.html:41
+msgid "Profile"
+msgstr "Profiili"
+
+#: superset/templates/appbuilder/navbar_right.html:42
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+#: superset/templates/appbuilder/navbar_right.html:47
+msgid "Login"
+msgstr "Kirjaudu sisään"
+
+#: superset/templates/appbuilder/general/widgets/base_list.html:37
+msgid "Record Count"
+msgstr "Rivimäärä"
+
+#: superset/templates/appbuilder/general/widgets/base_list.html:46
+msgid "No records found"
+msgstr "Rivejä ei löytynyt"
+
+#: superset/templates/superset/import_dashboards.html:11
+msgid "Import"
+msgstr "Tuo"
+
+#: superset/templates/superset/request_access.html:2
+msgid "No Access!"
+msgstr "Ei käyttöoikeutta!"
+
+#: superset/templates/superset/request_access.html:7
+#, python-format
+msgid "You do not have permissions to access the datasource(s): %(name)s."
+msgstr "Sinulla ei ole oikeutta käyttää näitä tietolähteitä: %(name)s."
+
+#: superset/templates/superset/request_access.html:13
+msgid "Request Permissions"
+msgstr "Pyydä käyttöoikeutta"
+
+#: superset/templates/superset/welcome.html:3
+msgid "Welcome!"
+msgstr "Tervetuloa!"
+
+#: superset/templates/superset/models/database/macros.html:4
+msgid "Test Connection"
+msgstr "Testaa yhteyttä"
+
+#: superset/views/annotations.py:50 superset/views/annotations.py:58
+#: superset/views/core.py:285 superset/views/core.py:2401
+#: superset/views/sql_lab.py:30
+msgid "Manage"
+msgstr "Hallitse"
+
+#: superset/views/base.py:62
+#, python-format
+msgid "Datasource %(name)s already exists"
+msgstr "Tietolähdeä nimeltä %(name)s on jo olemassa"
+
+#: superset/views/base.py:221
+msgid "json isn't valid"
+msgstr "json ei ole kelvollinen"
+
+#: superset/views/base.py:272
+msgid "Delete"
+msgstr "Poista"
+
+#: superset/views/base.py:273
+msgid "Delete all Really?"
+msgstr "Poista varmasti kaikki?"
+
+#: superset/views/core.py:58
+msgid "This endpoint requires the `all_datasource_access` permission"
+msgstr "Tämä päätepiste vaatii oikeuden `all_datasource_access`"
+
+#: superset/views/core.py:60
+msgid "The datasource seems to have been deleted"
+msgstr "Tietolähde näyttäisi olevan poistettu"
+
+#: superset/views/core.py:61
+msgid "The access requests seem to have been deleted"
+msgstr "Käyttöoikeuspyyntö näyttäisi olevan poistettu"
+
+#: superset/views/core.py:63
+msgid "The user seems to have been deleted"
+msgstr "Käyttäjä näyttäisi olevan poistettu"
+
+#: superset/views/core.py:64
+msgid "You don't have access to this datasource"
+msgstr "Sinulla ei ole oikeutta tähän tietolähteeseen"
+
+#: superset/views/core.py:68
+#, python-format
+msgid ""
+"This view requires the database %(name)s or `all_datasource_access` "
+"permission"
+msgstr ""
+"Tämä näkymä vaatii oikeuden tietokantaan %(name)s tai oikeuden "
+"`all_datasource_access`"
+
+#: superset/views/core.py:73
+#, python-format
+msgid ""
+"This endpoint requires the datasource %(name)s, database or "
+"`all_datasource_access` permission"
+msgstr ""
+"Tämä päätepiste vaatii oikeuden datalähteeseen %(name)s, "
+"tietokantaan tai oikeuden `all_datasource_access`"
+
+#: superset/views/core.py:176
+msgid "List Databases"
+msgstr "Listaa tietokannat"
+
+#: superset/views/core.py:177
+msgid "Show Database"
+msgstr "Näytä tietokanta"
+
+#: superset/views/core.py:178
+msgid "Add Database"
+msgstr "Lisää tietokanta"
+
+#: superset/views/core.py:179
+msgid "Edit Database"
+msgstr "Muokkaa tietokantaa"
+
+#: superset/views/core.py:218
+msgid "Expose this DB in SQL Lab"
+msgstr "Näytä tämä tietokanta SQL Labissa"
+
+#: superset/views/core.py:219
+msgid ""
+"Allow users to run synchronous queries, this is the default and should "
+"work well for queries that can be executed within a web request scope "
+"(<~1 minute)"
+msgstr ""
+"Salli käyttäjien ajaa synkronisia kyselyitä. Tämä on oletusasetus ja "
+"todennäköisesti toimii hyvin kyselyille jotka voidaan suorittaa "
+"web-pyynnön aikana (<~1 minuuttia)"
+
+#: superset/views/core.py:223
+msgid ""
+"Allow users to run queries, against an async backend. This assumes that "
+"you have a Celery worker setup as well as a results backend."
+msgstr ""
+"Salli käyttäjien ajaa kyselyitä asynkronisesti. Tämä olettaa, että "
+"olet ottanut käyttöön Celery-workerit sekä tulosten "
+"tallennusjärjestelmän (results backend)."
+
+#: superset/views/core.py:227
+msgid "Allow CREATE TABLE AS option in SQL Lab"
+msgstr "Salli CREATE TABLE AS -valinta SQL Labissa"
+
+#: superset/views/core.py:228
+msgid ""
+"Allow users to run non-SELECT statements (UPDATE, DELETE, CREATE, ...) in"
+" SQL Lab"
+msgstr ""
+"Salli käyttäjien ajaa SQL Labissa muitakin kuin SELECT-lauseita "
+"(UPDATE, DELETE, CREATE, ...)"
+
+#: superset/views/core.py:232
+msgid ""
+"When allowing CREATE TABLE AS option in SQL Lab, this option forces the "
+"table to be created in this schema"
+msgstr ""
+"Kun CREATE TABLE AS -valinta on sallittu, SQL Labissa, tämä asetus "
+"pakottaa taulut haluttuun schemaan"
+
+#: superset/views/core.py:244
+msgid ""
+"If Presto, all the queries in SQL Lab are going to be executed as the "
+"currently logged on user who must have permission to run them.<br/>If "
+"Hive and hive.server2.enable.doAs is enabled, will run the queries as "
+"service account, but impersonate the currently logged on user via "
+"hive.server2.proxy.user property."
+msgstr ""
+
+#: superset/views/core.py:251
+msgid "Expose in SQL Lab"
+msgstr "Näytä SQL Labissa"
+
+#: superset/views/core.py:252
+msgid "Allow CREATE TABLE AS"
+msgstr "Salli CREATE TABLE AS"
+
+#: superset/views/core.py:253
+msgid "Allow DML"
+msgstr "Salli DML"
+
+#: superset/views/core.py:254
+msgid "CTAS Schema"
+msgstr ""
+
+#: superset/views/core.py:256 superset/views/core.py:380
+#: superset/views/core.py:493 superset/views/core.py:557
+msgid "Creator"
+msgstr "Luonut"
+
+#: superset/views/core.py:258
+msgid "SQLAlchemy URI"
+msgstr ""
+
+#: superset/views/core.py:260
+msgid "Extra"
+msgstr ""
+
+#: superset/views/core.py:261
+msgid "Allow Run Sync"
+msgstr "Salli synkroniset kyselyt"
+
+#: superset/views/core.py:262
+msgid "Allow Run Async"
+msgstr "Salli asynkroniset kyselyt"
+
+#: superset/views/core.py:263
+msgid "Impersonate the logged on user"
+msgstr ""
+
+#: superset/views/core.py:281
+msgid "Import Dashboards"
+msgstr "Tuo infotauluja"
+
+#: superset/views/core.py:323 superset/views/core.py:570
+#: superset/views/sql_lab.py:18 superset/views/sql_lab.py:54
+msgid "User"
+msgstr "Käyttäjä"
+
+#: superset/views/core.py:324
+msgid "User Roles"
+msgstr "Roolit"
+
+#: superset/views/core.py:325
+msgid "Database URL"
+msgstr "Tietokannan URL"
+
+#: superset/views/core.py:327
+msgid "Roles to grant"
+msgstr "Myönnettävät roolit"
+
+#: superset/views/core.py:328
+msgid "Created On"
+msgstr "Luontiaika"
+
+#: superset/views/core.py:334
+msgid "Access requests"
+msgstr "Käyttöoikeuspyynnöt"
+
+#: superset/views/core.py:336 superset/views/core.py:581
+msgid "Security"
+msgstr "Turvallisuus"
+
+#: superset/views/core.py:343
+msgid "List Slices"
+msgstr "Listaa siivut"
+
+#: superset/views/core.py:344
+msgid "Show Slice"
+msgstr "Näytä siivu"
+
+#: superset/views/core.py:345
+msgid "Add Slice"
+msgstr "Lisää siivu"
+
+#: superset/views/core.py:346
+msgid "Edit Slice"
+msgstr "Muokkaa siivua"
+
+#: superset/views/core.py:368
+msgid ""
+"These parameters are generated dynamically when clicking the save or "
+"overwrite button in the explore view. This JSON object is exposed here "
+"for reference and for power users who may want to alter specific "
+"parameters."
+msgstr ""
+"Nämä parametrit luodaan dynaamisesti kun tutkintanäkymästä klikataan "
+"tallenna- tai ylikirjoita-nappia. Tämä JSON-objekti näytetään tässä "
+"tehokäyttäjille jotka saattavat haluta muokata tiettyjä asetuksia."
+
+#: superset/views/core.py:373
+msgid "Duration (in seconds) of the caching timeout for this slice."
+msgstr "Välimuistin aikaraja (sekuntia) tälle siivulle"
+
+#: superset/views/core.py:384
+msgid "Last Modified"
+msgstr "Viimeksi muokattu"
+
+#: superset/views/core.py:385 superset/views/core.py:492
+msgid "Owners"
+msgstr "Omistajat"
+
+#: superset/views/core.py:386
+msgid "Parameters"
+msgstr "Parametrit"
+
+#: superset/views/core.py:387 superset/views/core.py:433
+msgid "Slice"
+msgstr "Siivu"
+
+#: superset/views/core.py:450
+msgid "List Dashboards"
+msgstr "Listaa infotaulut"
+
+#: superset/views/core.py:451
+msgid "Show Dashboard"
+msgstr "Näytä infotaulu"
+
+#: superset/views/core.py:452
+msgid "Add Dashboard"
+msgstr "Lisää infotaulu"
+
+#: superset/views/core.py:453
+msgid "Edit Dashboard"
+msgstr "Muokkaa infotaulua"
+
+#: superset/views/core.py:465
+msgid ""
+"This json object describes the positioning of the widgets in the "
+"dashboard. It is dynamically generated when adjusting the widgets size "
+"and positions by using drag & drop in the dashboard view"
+msgstr ""
+"Tämä JSON-objekti kuvaa widgettien sijaintia infotaulussa. Se luodaan "
+"dynaamisesti drag & drop-operaation aikana infotaulu-näkymässä"
+
+#: superset/views/core.py:470
+msgid ""
+"The css for individual dashboards can be altered here, or in the "
+"dashboard view where changes are immediately visible"
+msgstr ""
+"Yksittäisten infotaulujen CSS-tyyliä voidaan muokata joko tässä "
+"tai suoraan infotaulu-näkymässä jossa muutokset ovat välittömästi "
+"nähtävissä"
+
+#: superset/views/core.py:474
+msgid "To get a readable URL for your dashboard"
+msgstr "Tämän avulla saat helpommin luettavan osoitteen infotaulullesi"
+
+#: superset/views/core.py:475
+msgid ""
+"This JSON object is generated dynamically when clicking the save or "
+"overwrite button in the dashboard view. It is exposed here for reference "
+"and for power users who may want to alter specific parameters."
+msgstr ""
+"Tämä JSON-objekti luodaan dynaamisesti kun infotaulu-näkymässä klikataan "
+"Tallenna tai Ylikirjoita. Se näytetään tässä viitteeksi sekä "
+"tehokäyttäjille jotka saattavat haluta muokata tiettyjä asetuksia."
+
+#: superset/views/core.py:480
+msgid "Owners is a list of users who can alter the dashboard."
+msgstr "Omistajat on lista käyttäjistä jotka voivat muokata infotaulua"
+
+#: superset/views/core.py:488 superset/views/core.py:555
+msgid "Dashboard"
+msgstr "Infotaulu"
+
+#: superset/views/core.py:490
+msgid "Slug"
+msgstr ""
+
+#: superset/views/core.py:495
+msgid "Position JSON"
+msgstr "Sijainti-JSON"
+
+#: superset/views/core.py:497
+msgid "JSON Metadata"
+msgstr "JSON-metatieto"
+
+#: superset/views/core.py:498
+msgid "Underlying Tables"
+msgstr "Taustataulut"
+
+#: superset/views/core.py:521
+msgid "Export"
+msgstr "Vie"
+
+#: superset/views/core.py:521
+msgid "Export dashboards?"
+msgstr "Vie infotaulut?"
+
+#: superset/views/core.py:571
+msgid "Action"
+msgstr "Toiminto"
+
+#: superset/views/core.py:572
+msgid "dttm"
+msgstr ""
+
+#: superset/views/core.py:579
+msgid "Action Log"
+msgstr "Toimintaloki"
+
+#: superset/views/core.py:810
+msgid "Access was requested"
+msgstr "Käyttöoikeutta on pyydetty"
+
+#: superset/views/core.py:871
+#, python-format
+msgid ""
+"%(user)s was granted the role %(role)s that gives access to the "
+"%(datasource)s"
+msgstr ""
+"Käyttäjälle %(user)s on myönnetty rooli %(role)s joka antaa "
+"oikeuden tietolähteeseen %(datasource)s"
+
+#: superset/views/core.py:887
+#, python-format
+msgid "Role %(r)s was extended to provide the access to the datasource %(ds)s"
+msgstr "Roolia %(r)s laajennettiin sisältämään oikeus tietolähteeseen %(ds)s"
+
+#: superset/views/core.py:896
+msgid "You have no permission to approve this request"
+msgstr "Sinulla ei ole oikeutta hyväksyä tätä käyttöoikeuspyyntöä"
+
+#: superset/views/core.py:1676
+msgid ""
+"Malformed request. slice_id or table_name and db_name arguments are "
+"expected"
+msgstr ""
+"Virheellinen pyyntö. Joko siivun ID (slice_id) TAI parametrit "
+"taulun nimi (table_name) sekä tietokannan nimi (db_name) vaaditaan"
+
+#: superset/views/core.py:1682
+#, python-format
+msgid "Slice %(id)s not found"
+msgstr "Siivua %(id)s ei löydy"
+
+#: superset/views/core.py:1694
+#, python-format
+msgid "Table %(t)s wasn't found in the database %(d)s"
+msgstr "Taulua %(t)s ei löytynyt tietokannasta %(d)s"
+
+#: superset/views/core.py:1833
+#, python-format
+msgid "Can't find User '%(name)s', please ask your admin to create one."
+msgstr "Käyttäjää '%(name)s' ei löydy, pyydä ylläpitäjääsi luomaan sellainen."
+
+#: superset/views/core.py:1840
+#, python-format
+msgid "Can't find DruidCluster with cluster_name = '%(name)s'"
+msgstr "Druid-klusteria (cluster_name = '%(name)s') ei löydy"
+
+#: superset/views/core.py:2101
+msgid "Query record was not created as expected."
+msgstr "Kysely-objektia ei luotu niinkuin oletettiin."
+
+#: superset/views/core.py:2387
+msgid "Template Name"
+msgstr "Pohjan nimi"
+
+#: superset/views/core.py:2398
+msgid "CSS Templates"
+msgstr "CSS-pohjat"
+
+#: superset/views/core.py:2409
+msgid "SQL Editor"
+msgstr "SQL-editori"
+
+#: superset/views/core.py:2414 superset/views/core.py:2423
+msgid "SQL Lab"
+msgstr ""
+
+#: superset/views/core.py:2418
+msgid "Query Search"
+msgstr "Kyselyhaku"
+
+#: superset/views/sql_lab.py:20
+msgid "Status"
+msgstr "Tila"
+
+#: superset/views/sql_lab.py:21
+msgid "Start Time"
+msgstr "Aloitusaika"
+
+#: superset/views/sql_lab.py:22 superset/views/sql_lab.py:58
+msgid "End Time"
+msgstr "Päättymisaika"
+
+#: superset/views/sql_lab.py:28
+msgid "Queries"
+msgstr "Kyselyt"
+
+#: superset/views/sql_lab.py:37
+msgid "List Saved Query"
+msgstr "Listaa tallennetut kyselyt"
+
+#: superset/views/sql_lab.py:38
+msgid "Show Saved Query"
+msgstr "Näytä tallennettu kysely"
+
+#: superset/views/sql_lab.py:39
+msgid "Add Saved Query"
+msgstr "Lisää tallennettu kysely"
+
+#: superset/views/sql_lab.py:40
+msgid "Edit Saved Query"
+msgstr "Muokkaa tallennettua kyselyä"
+
+#: superset/views/sql_lab.py:59
+msgid "Pop Tab Link"
+msgstr "Linkki uuteen välilehteen"
+
+#: superset/views/sql_lab.py:60
+msgid "Changed on"
+msgstr "Muokkausaika"
+
+#: superset/views/sql_lab.py:79
+msgid "Saved Queries"
+msgstr "Tallennetut kyselyt"
+
